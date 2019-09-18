@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ''
+title: 'Good article about Iran's historic effort to build the bomb'
 ---
 ## Iran's effort to build the bomb
 
