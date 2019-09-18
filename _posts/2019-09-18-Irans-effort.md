@@ -1,7 +1,9 @@
 ---
 layout: post
 published: true
-title: 'Iran's historic effort to build the bomb'
+title: Iran's historic effort to build the bomb
+subtitle: Interesting article about Iran's effort to develop nulcear weapons
+
 ---
 ## Iran's effort to build the bomb
 
