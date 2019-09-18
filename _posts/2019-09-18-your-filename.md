@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: ''
 ---
 ## Iran's effort to build the bomb
