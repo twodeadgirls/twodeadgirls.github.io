@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-title: test warning
-subtitle: Interesting article about nothing
+title: test warner
+subtitle: Interesting article about nothing and...
 
 ---
 ## Crazy test post
