@@ -1,0 +1,10 @@
+---
+layout: post
+published: true
+title: test warning
+subtitle: Interesting article about nothing
+
+---
+## Crazy test post
+
+this is a test dont ask why just wonder at the wonder of it all
