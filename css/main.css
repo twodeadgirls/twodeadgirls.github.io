@@ -7,7 +7,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Lato', 'Times New Roman', serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #404040;
   position: relative;
@@ -23,7 +23,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 600;
 }
 a {
   color: {{ site.link-col }};
