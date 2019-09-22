@@ -5,8 +5,8 @@ subtitle: stump
 
 ---
 
-<img src="https://github.com/jonbcarroll/img/20190727-DSCF1877.JPG"
-     alt="Markdown Monster icon"
+<img src="https://jonbcarroll.github.io/img/20190727-1877.JPG"
+     alt="Markdown icon"
      style="float: left; margin-right: 10px;" />
      
      
