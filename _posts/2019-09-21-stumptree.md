@@ -7,4 +7,4 @@ subtitle: stump
 
 
 
-! Tree stump(https://github.com/jonbcarroll/img/20190727-DSCF1877.JPG "Logo Title Text 1")
+! Tree stump (https://github.com/jonbcarroll/img/20190727-DSCF1877.JPG)
