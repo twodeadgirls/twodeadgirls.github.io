@@ -10,9 +10,9 @@ His work focuses on social, cultural, human rights and land use-related issues. 
 
 Film credits include "No Man's Land" a documentary about the takeover of the Malheur National Wildlife Refuge in Burns Oregon to protest a ranching family's incarcration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018.
 
-Currently, he works on personal projects while managing his farm with his girlfriend in rural Alabama.
+Education, Auburn University bachelors in environmental science and architecture and masters in landscape architecture, postgraduate study in literature at Harvard Univeristy.[CV](http://en.wikipedia.org) 
+He was awareded the Zilphia Horton Cultrual Organizing grant in 2015 by the Highlander foudnation. This is part funded a series of interviews with police officers and victims of a neoconfederate  narcotics team in Dothan Alabama.   
+
+Currently, he works on personal projects from his ranch in rural Alabama.
 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [CV](http://en.wikipedia.org) and it will answer **all** your questions.
