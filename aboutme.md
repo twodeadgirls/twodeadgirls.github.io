@@ -8,6 +8,7 @@ img: /img/hello_world.jpeg
      alt="A horse named Hellboy"
      style="float: left; margin-right: 10px;"/>
 Duane Ehmer and his horse named "Hellboy"
+<figure class="image"><img src="{{ https://jonbcarroll.s3.us-east-2.amazonaws.com/malheur_06.jpg }}" alt="{{ include.description }}"><figcaption>{{ include.description }}</figcaption></figure>
 
 Jon B. Carroll (1966) is a documentary photographer and rancher in Alabama.
 His work focuses on social, cultural, human rights and land use-related issues. His work has been written about in: The Washington Post, RT News, Slate, The New Republic, NPR, Buzzfeed, PBS and others.
