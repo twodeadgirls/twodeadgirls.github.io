@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Why 
 ---
+bigimg: img/headester.jpg
 
 Jon B. Carroll (1966) is a documentary photographer and rancher in Alabama.
 
