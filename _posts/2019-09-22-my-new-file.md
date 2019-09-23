@@ -21,4 +21,4 @@ But this I forget is what makes you have a better eye when that button is pushed
 Maybe that's hopeful jumbo jumbo. Maybe not.
 My list to remind me of why its meaningful.
 1.  [Diane Arbus](www.artnet.com/artists/diane-arbus/)
-2.  
+2.
