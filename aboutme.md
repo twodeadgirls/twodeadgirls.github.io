@@ -3,9 +3,7 @@ layout: page
 title: About me
 subtitle: Why 
 ---
-bigimg: img/headster.jpg
-
-Jon B. Carroll (1966) is a documentary photographer and rancher in Alabama.
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg) Jon B. Carroll (1966) is a documentary photographer and rancher in Alabama.
 
 His work focuses on social, cultural, human rights and land use-related issues. His work has been written about in: The Washington Post, RT News, Slate, The New Republic, NPR, Buzzfeed, PBS and others.
 
