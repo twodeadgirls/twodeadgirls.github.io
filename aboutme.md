@@ -6,6 +6,7 @@ subtitle: Why
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/malheur_06.jpg"
      alt="A horse named Hellboy"
      style="float: left; margin-right: 10px;"/>
+Duane Ehmer and his horse named "Hellboy"
 
 Jon B. Carroll (1966) is a documentary photographer and rancher in Alabama.
 
