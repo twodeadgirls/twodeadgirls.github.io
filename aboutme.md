@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why 
+title: About
+subtitle:  
 ---
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/malheur_06.jpg"
      alt="A horse named Hellboy"
