@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-subtitle:  
+subtitle: 
+bigimg: /img/path.jpg
 ---
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/malheur_06.jpg"
      alt="A horse named Hellboy"
