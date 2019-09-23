@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'my new file today '
+title: Does photography even matter?
 ---
 ## Does photography even matter ?
 
