@@ -5,7 +5,7 @@ subtitle: Why
 ---
 <img src="https://jonbcarroll.github.io/img/_malheur_06.jpg"
      alt="A horse named Hellboy"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;"/>
 
 Jon B. Carroll (1966) is a documentary photographer and rancher in Alabama.
 
