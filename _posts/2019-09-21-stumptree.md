@@ -1,8 +1,8 @@
 ---
 layout: post
-title: test pic
+title: test pictomundo
 subtitle: stump
-
+published: true
 ---
 
 <img src="https://jonbcarroll.github.io/img/20190727-1877.JPG"
