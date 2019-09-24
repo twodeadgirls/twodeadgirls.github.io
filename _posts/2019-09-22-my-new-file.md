@@ -43,5 +43,5 @@ document.write("You are the <b>"+currenthits+"</b> vistor")
 fakecounter()
 </script>
 
-<p align="center"><font face="arial" size="-2"></font><br><font face="arial, helvetica" size="-2"><></a></font></p>
+
 
