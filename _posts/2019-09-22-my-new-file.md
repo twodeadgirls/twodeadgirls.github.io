@@ -22,3 +22,26 @@ Maybe that's hopeful jumbo jumbo. Maybe not.
 My list to remind me of why its meaningful.
 1.  [Diane Arbus](www.artnet.com/artists/diane-arbus/)
 2.
+
+
+<!--Simply copy and paste it where you wish the counter to appear.-->
+
+
+<SCRIPT language="JavaScript" type="text/javascript">
+// counter - from http://rainbow.arch.scriptmania.com/scripts
+function fakecounter(){
+
+//decrease/increase counter value (depending on perceived popularity of your site!)
+var decrease_increase=2460
+
+var counterdate=new Date()
+var currenthits=counterdate.getTime().toString()
+currenthits=parseInt(currenthits.substring(2,currenthits.length-4))+decrease_increase
+
+document.write("You are visitor # <b>"+currenthits+"</b> to my site!")
+}
+fakecounter()
+</script>
+
+<p align="center"><font face="arial" size="-2">This free script provided by </font><br><font face="arial, helvetica" size="-2"><a href="http://rainbow.arch.scriptmania.com">Rainbow Arch</a></font></p>
+
