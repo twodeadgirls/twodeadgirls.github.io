@@ -5,7 +5,7 @@ subtitle:
 img: /img/hello_world.jpeg
 ---
 
-<img align="right" src="https://jonbcarroll.s3.us-east-2.amazonaws.com/witness.jpg"> 
+
 
 <br  />
 <p>
