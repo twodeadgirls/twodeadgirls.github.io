@@ -11,7 +11,9 @@ img: /img/hello_world.jpeg
 <p>
 <p> My interest as a documentary photographer is trying to use the medoum to understand cultural landscapes and the physical form of ethnic segregation. I am self-taught and became introduced to the medium while completing my graduate thesis at Auburn University and studying the works of J.B. Jackson. Photogrpahy over time of the same places revealmhow our physica form ( the built envornment responds to culture and exploitation.
    From western rnaching landscapes to the intricate neighborhoods in sotuhern quarters commuities fascinate me and I attempt to document the people who live there.
-   Inspirations would be Walker Evans, Capra,  
+   Inspirations would be Walker Evans, Robert Capa, William Allard. 
+   Equipment wise I use Fuji XPro 2 and their fixed x lenses. Digitally I keep things minmal using only a Ipad pro , minimal editing with Adobe lightroom and use that as my system and maintina this page using ope source jekyll software.
+   
 <p> 
 RECENT WORK
 Zilphea Horton Cultural Grant, Highlander Foundation
