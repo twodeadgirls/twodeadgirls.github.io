@@ -5,7 +5,7 @@ subtitle:
 img: /img/hello_world.jpeg
 ---
 
- ![Micco] (https://s3://jonbcarroll/witness.jpg)
+<img src="https://s3://jonbcarroll/witness.jpg" alt="Micco">
 
 <br  />
 <p>
