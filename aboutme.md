@@ -7,7 +7,7 @@ img: /img/hello_world.jpeg
 
 <img align="right" src="https://jonbcarroll.s3.us-east-2.amazonaws.com/witness.jpg">
 
-
+<p>
 <p> My primary interest  as a documentary photogrpaher is cultural landscapes and examining the physical form of ethnic and religous segregation.
 
 <p>
