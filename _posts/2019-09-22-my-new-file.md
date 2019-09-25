@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Does photography even matter?
+title: 
 ---
 ## Does photography even matter ?
 
