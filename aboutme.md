@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: .
 subtitle: 
 img: /img/hello_world.jpeg
 ---
