@@ -9,7 +9,9 @@ img: /img/hello_world.jpeg
 
 <br  />
 <p>
-<p> My primary interest as a documentary photogrpaher is cultural landscapes and examining the physical form of ethnic and religous segregation. I am self taught and became fascinated with the medium while completing my graduate thesis at Auburn University and studying the works of J.B. Jackson. 
+<p> My interest as a documentary photographer is trying to use the medoum to understand cultural landscapes and the physical form of ethnic segregation. I am self-taught and became introduced to the medium while completing my graduate thesis at Auburn University and studying the works of J.B. Jackson. Photogrpahy over time of the same places revealmhow our physica form ( the built envornment responds to culture and exploitation.
+   From western rnaching landscapes to the intricate neighborhoods in sotuhern quarters commuities fascinate me and I attempt to document the people who live there.
+   Inspirations would be Walker Evans, Capra,  
 <p> 
 RECENT WORK
 Zilphea Horton Cultural Grant, Highlander Foundation
