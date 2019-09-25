@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 
 ---
-## Does photography even matter ?
+## Does photography even matter anymore ?
 
 I’ve been thinking about this question largely because my camera stayed in my little backpack on the seat of my truck for a month. I have had few moments to glance at it, not use it, while letting myself become obsessed with fences, hay and pastures.
 Does it really matter - fuck that's a hard question.
