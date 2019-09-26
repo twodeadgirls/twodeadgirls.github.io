@@ -11,7 +11,7 @@ published: true
 <br  />
 <p>
 <p> My interest as a photographer is trying to understand cultural landscapes and the physical form of ethnic segregation. I am self-taught and became introduced to the medium while completing my graduate thesis at Auburn University and studying the works of J.B. Jackson. Photography over time of the same places reveal how our physical form, the built environment, responds to culture and exploitation.
-  l am learning still trying to understand the basics of exposure aperture and lens selection. Inspirations would be Walker Evans, Robert Capa, William Allard. 
+  <p>l am learning still trying to understand the basics of exposure aperture and lens selection. Inspirations would be Walker Evans, Robert Capa, William Allard. 
    Equipment-wise I use the Fuji XPro 2 and their fixed x lenses. Digitally I keep things minimal using only a Ipad pro, with editing kept to a minimum with Lightroom. Ase that as my system and maintina this page using ope source jekyll software.
    
 <p>
