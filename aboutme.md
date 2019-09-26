@@ -10,7 +10,7 @@ published: true
 
 <br  />
 <p>
-## Statement:
+**Statement:**
 <p>My interest as a photographer is trying to understand cultural landscapes and the resultant physical form. I am self-taught, introduced to the medium while completing my graduate thesis at Auburn University and studying the works of J.B. Jackson. Photography over time of the same landscapes reveals how our physical form, the built environment, responds to culture and exploitation. Photo of people examine the effect that resultant form has on those who inhabit it.
 
 <p>l am still learning to understand the basics of exposure aperture and lens selection. Sometimes I like to film people discussing their experience of place or conflict. My inspirations would be Walker Evans, Robert Capa, and William Allard. 
