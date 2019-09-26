@@ -30,7 +30,7 @@ For a tutorial on how this system is set up click here.
 
   <br  />
 <p>
-<strong>>Education<strong/>
+<strong>Education<strong/>
   My research interest is primarily documenting cultural landscapes, the resultant culure they form and how that specifically influences culture.
   
 Harvard University, English Literature, 2013
