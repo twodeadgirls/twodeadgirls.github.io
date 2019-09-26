@@ -8,6 +8,8 @@ tags:
 published: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8WzMZxT-41k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 “ Police have received information that some of the milkshakes thrown today during the demonstration contained quick-drying cement” - PORTLAND OREGON POLICE DEPT.
 
 Welcome to American politics where milkshakes are now weaponized.
