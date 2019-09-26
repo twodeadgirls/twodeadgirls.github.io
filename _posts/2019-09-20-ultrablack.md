@@ -5,7 +5,7 @@ title: Silverton withdrawal syndrome
 subtitle: Interesting article about nothing
 ---
 
-![alt text](#)(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://jonbcarroll.s3.us-east-2.amazonaws.com/_ston.jpg)
 
 
 ## Its been a long summer with no mountains, 
