@@ -32,7 +32,7 @@ For a tutorial on how this system is set up click here.
 <p>
 <strong>Education<strong/>
   
-<p>My research interest is primarily documenting cultural landscapes, the resultant culure they form and how that specifically influences culture.
+<p>My research interest is primarily documenting cultural landscapes, the resultant culure they form and how that specifically influences culture and creates myth.
   
 Harvard University, English Literature, 2013
 Auburn University, Masters Landscape Architecture, 2012
