@@ -25,11 +25,13 @@ For a tutorial on how I set my system up  <a href="https://www.jonbcarroll.com/"
    <br  />
 <p>
 <strong>Recent</strong>
+  <p>2016 Filmed several interviews in <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Burns Oregon to protest a ranching family’s incarcration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
+    
 <p>2014 Awarded the Zilphea Horton Grant by the <a href="https://www.highlandercenter.org">Highlander Foundation</a>. 
-  I used this to research and <a href="https://medium.com/@jonbcarroll/leaked-documents-reveal-dothan-police-department-alleged-to-have-planted-drugs-f89109dc196e"> publish an article</a interviewing victims in a community ranked by Harvard as ne of the most corrupt in the nation - Alabama’s 20th judicial district. Exhibit of photographs, “Save the Kennys”.
+  This was used to research and <a href="https://medium.com/@jonbcarroll/leaked-documents-reveal-dothan-police-department-alleged-to-have-planted-drugs-f89109dc196e"> publish an article</a> interviewing victims in a community ranked by Harvard as one of the most corrupt in the nation - Alabama’s 20th judicial district. A book of these photographs, “Save the Kennys” is forthcoming.
 
   
-<p>2016 filmed several interviews in <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Burns Oregon to protest a ranching family’s incarcration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
+
   
 
   <br  />
