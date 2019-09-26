@@ -1,5 +1,6 @@
 ---
 layout: null
+published: true
 ---
 
 @import url("pygment_highlights.css");
@@ -310,7 +311,7 @@ footer .copyright {
 
 @media only screen and (min-width: 768px) {
   .post-preview {
-    padding: 75px 0;
+    padding: 50px 0;
   }
 }
 
