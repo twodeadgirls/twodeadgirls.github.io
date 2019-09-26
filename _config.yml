@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title:    My name is Jon Carroll. I live in rural Alabama where I raise cattle. I love to take photos and make drawings of cultural landscapes.  
+title:    My name is Jon Carroll. I live in rural Alabama where I raise cattle and love to take photos.  
 
 # Short description of your site
 description: Blog of photographer and rancher Jon B. Carroll
@@ -24,7 +24,7 @@ navbar-links:
   Writing: "https://medium.com/@jonbcarroll"
   Recent work:
     - Two Dead Girls: "http://jonbcarroll.com/twodeadgirls/"
-    - Malheur Takeover: "http://jonbcarroll.com/malheur/"
+    - Malheur: "http://jonbcarroll.com/malheur/"
     - Save the Kennys: "http://jonbcarroll.com/savethekennys/"
 
 
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"  # eg. "https://jonbcarroll.github.io"
+url-pretty: "jonbcarroll.com"  # eg. "https://jonbcarroll.github.io"
 
 # --- Web Statistics Section --- #
 
