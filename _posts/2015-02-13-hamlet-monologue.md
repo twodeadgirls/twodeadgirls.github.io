@@ -45,6 +45,8 @@ They do this by giving the white supremacists and alt right groups more violence
 
 Spencer who had been given a role of spokesperson for the movement became a poster boy for what symbolized weakness with a simple smack in the face by a Antifa member. Instead of people listening to what he had to say in the interview by the Atlantic below, millions watched this video over and over of him being punched and laughed.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kVeZ0_Lhazw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Are these people domestic terrorists as President Trump describes or are they brave defenders of democracy ?
 
 They certainly have made the Proud Boys a little less proud at the moment with just milkshakes, albeit weaponized with liquid cement which resulted in the boys having to shave off their hair, eyebrows and beards they famously wear and look like idiots. Or as Antifa said at the confrontation in Portland, “you want to be skinheads we will make you skinheads.”
