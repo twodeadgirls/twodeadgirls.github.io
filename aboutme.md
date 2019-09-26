@@ -25,8 +25,10 @@ For a tutorial on how this system is set up click here.
    <br  />
 <p>
 <strong>Recent</strong>
-<p>2014 Awarded the Zilphea Horton Grant by the Highlander Foundation. Used to research a series of articles interviewing victims of a corrupt judicial district and police department in Alabama’s 20th judicial district. Exhibit of 30 photographs, “Save the Kennys”.
-<p>2016 filmed several interviews in “No Man’s Land” a documentary about the armed takeover of the Malheur National Wildlife Refuge in Burns Oregon to protest a ranching family’s incarcration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
+<p>2014 Awarded the Zilphea Horton Grant by the <a href="https://www.highlandercenter.org">Highlander Foundation</a>. 
+  Used to research a series of articles interviewing victims ina community ranked by Harvard as ne of the most corrupt in the nation - Alabama’s 20th judicial district. Exhibit of photographs, “Save the Kennys”.
+<p>2016 filmed several interviews in <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Burns Oregon to protest a ranching family’s incarcration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
+  
 
   <br  />
 <p>
