@@ -1,13 +1,9 @@
 ---
 layout: post
-title: test pictomundo
-subtitle: stump
+title: In the West
+subtitle: love this video by Ze'ev Waismann
 published: true
 ---
 
-<img src="https://jonbcarroll.github.io/img/20190727-1877.JPG"
-     alt="Markdown icon"
-     style="float: left; margin-right: 10px;" />
-     ![20190727-1877.JPG]({{site.baseurl}}/img/20190727-1877.JPG)
-     
-! [a stump](https://jonbcarroll.github.io/img/20190727-1877.JPG) "A heart pine stump")
+<div style="padding:41.6% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/298783356?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
