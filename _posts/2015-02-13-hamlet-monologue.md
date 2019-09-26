@@ -41,6 +41,8 @@ But is Antifa suppressing free speech ? Yes of course, but….this they believe 
 
 They do this by giving the white supremacists and alt right groups more violence than they are prepared to accept and make them pay the public price of being humiliated. Thus denying them a public platform to show strength instead they become victims and look weak which denies them a desired public image of strentgh. The best example of this is how previously popular spokesman Richard Spencer got punched in the face.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bJKzsSM6MBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Spencer who had been given a role of spokesperson for the movement became a poster boy for what symbolized weakness with a simple smack in the face by a Antifa member. Instead of people listening to what he had to say in the interview by the Atlantic below, millions watched this video over and over of him being punched and laughed.
 
 Are these people domestic terrorists as President Trump describes or are they brave defenders of democracy ?
