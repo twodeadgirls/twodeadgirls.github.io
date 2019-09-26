@@ -13,20 +13,22 @@ published: true
 <strong>Statement</strong>
 <p>My interest as a photographer is trying to understand cultural landscapes and the influence of resultant physical form. I am self-taught, introduced to the medium while completing my graduate thesis at Auburn University and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. Photography over time of the same landscapes shows how physical form (the built environment) responds to culture and resource exploitation as well as reveal the effect resultant form has on those living there.
 
-<p>l am still learning to understand the basics of exposure aperture and lens selection. Sometimes I like to film people discussing their experience of place or conflict. Te moving image is more a combination of audio and image in my work less something new.  Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
+<p>l am still a beginner to photogrpahy, learning to understand the basics of exposure aperture and lens selection. Sometimes I like to film people discussing their experience of place or conflict. The moving image is a combination of audio and image in my work less something new.  Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
 <p>
 <strong>Equipment</strong> 
- <p>I use the Fuji XPro, XT 2, and their fixed x series lenses. Fuji’s system is small weatherproof and durable. Summers I work as a mountain guide in the San Juan mountains between 10 and 14 thousand feet in elevation so my system must fit in my backpack, be lightweight and work in any condition.
-Digitally I keep things minimal using only a Ipad pro, editing kept to a minimum with Lightroom. With the iPad I use open source software, Jekyll and Github to maintain this page. The core idea is be mobile and self reliant, not needing electricity except what a backpack based solar unit can provide avoiding the use of a laptop or desktop machine.
-For a tutorial on how this system is set up click here.
+ <p>I use the Fuji XPro, XT 2, and <a href="https://www.fujifilmusa.com/products/digital_cameras/x-lenses/">their fixed x series lenses- 16/23/35/56</a> Fuji’s system is small weatherproof and very durable. Summers I work as a mountain guide in the San Juan mountains between 10 and 14 thousand feet in elevation so my camera must fit in my backpack, be lightweight and work in any weather condition.
+Digitally I keep things minimal using only an iPad pro, editing kept to a minimum with Lightroom. With the iPad I've found I can use open source software, Jekyll and Github to maintain this page. The core idea is be mobile and self reliant, not needing electricity except what a backpack based solar unit can provide and avoid the use of a laptop or desktop machine. If I cant do all I need to do in my truck or on the trail then it doesnt work for me.
+For a tutorial on how I set my system up  <a href="https://www.jonbcarroll.com/">click here</a>.
 
    <br  />
 <p>
 <strong>Recent</strong>
 <p>2014 Awarded the Zilphea Horton Grant by the <a href="https://www.highlandercenter.org">Highlander Foundation</a>. 
-  Used to research a series of articles interviewing victims ina community ranked by Harvard as ne of the most corrupt in the nation - Alabama’s 20th judicial district. Exhibit of photographs, “Save the Kennys”.
+  I used this to research and <a href="https://medium.com/@jonbcarroll/leaked-documents-reveal-dothan-police-department-alleged-to-have-planted-drugs-f89109dc196e"> publish an article</a interviewing victims in a community ranked by Harvard as ne of the most corrupt in the nation - Alabama’s 20th judicial district. Exhibit of photographs, “Save the Kennys”.
+
+  
 <p>2016 filmed several interviews in <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Burns Oregon to protest a ranching family’s incarcration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
   
 
