@@ -31,9 +31,9 @@ For a tutorial on how this system is set up click here.
   <br  />
 <p>
 <strong>>Education<strong/>
-  My research interest is primarily documenting cultural landscapes, the resultant culure they form and how that form specifically informs culture.
+  My research interest is primarily documenting cultural landscapes, the resultant culure they form and how that specifically influences culture.
   
-<p>Harvard University, English Literature, 2013
+Harvard University, English Literature, 2013
 Auburn University, Masters Landscape Architecture, 2012
 Auburn University, BS Architecture 1998
 Auburn University, BA Environmental Design 1990.
