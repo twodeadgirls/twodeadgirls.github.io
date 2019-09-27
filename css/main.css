@@ -279,10 +279,7 @@ footer a {
   color: {{site.footer-link-col}};
 }
 
-footer .list-inline {
-  margin: 0;
-  padding: 0;
-}
+
 footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
