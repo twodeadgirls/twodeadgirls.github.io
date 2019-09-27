@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In the West
+title: Here, in the West
 subtitle: love this video by Ze'ev Waismann
 published: true
 ---
