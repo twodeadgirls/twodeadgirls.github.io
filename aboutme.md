@@ -22,7 +22,7 @@ published: true
 <p>
 <strong>Equipment</strong> 
  <p>I use the Fuji XPro and <a href="https://www.fujifilmusa.com/products/digital_cameras/x-lenses/">their fixed x series lenses- 16/23/35/56</a> Fuji’s system is small weatherproof and very durable. It's sensor captures a gorgeous spectrum of color.  
-   Summers I work as a mountain guide in the San Juan mountains of Colorado between 10 and 14 thousand feet in elevation so my camera must fit in a backpack, be lightweight and work in any weather condition.
+   Summers I work as a mountain guide in the San Juan mountains of Colorado between 10 and 14 thousand feet in elevation so my camera must fit in a backpack, be lightweight and work in any weather condition. Also critical the Fuji system is very usable by horse.
 Digitally I keep things minimal using an iPad pro, editing kept to a minimum with Lightroom. With the iPad I've found I can use open source software, Jekyll and Github to maintain this page. The core idea is be mobile and self reliant, not needing electricity except what a backpack based solar unit can provide and avoid the use of a laptop or desktop. If I can't do all I need to do on the hood of my truck or trail then it doesnt work.
 For a tutorial on how I set my system up  <a href="https://www.jonbcarroll.com/">click here</a>.
 
