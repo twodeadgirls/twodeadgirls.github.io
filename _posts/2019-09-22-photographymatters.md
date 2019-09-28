@@ -3,6 +3,10 @@ layout: post
 published: true
 title: Does photography even matter anymore ?
 ---
+<figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190922_10_168.jpg">
+  <figcaption> Evidence froma gambling arrest via the <a href="http://www.nla.gov.au/what-we-collect/pictures">National Library of Austraila</a> / New South Wales Police Dept. </figcaption>
+  </figure>
 
 
 I’ve been thinking about this question largely because my camera stayed in my little backpack on the seat of my truck for a month and I stared at it. I have picked it up taken it out of the backpack but left the lens cap on. My dog (Micco) bit the shutter release off so I had to order a new one and superglue it to the no longer dog bit shutter release. But I have not used it, while letting myself become obsessed with fences, hay, dung beetles and pastures.
