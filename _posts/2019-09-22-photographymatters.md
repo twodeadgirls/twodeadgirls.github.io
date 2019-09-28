@@ -13,6 +13,7 @@ I remember Alec Soth asked this same question several years ago when he carried 
 I dont know Laec , maybe one day I will meet him as I am certainly a fan. But I suspect Soth is speaking in code. Hes asking us to have that same feeling so we recoginize something. Like the artissts that remain childlike in wonder for maximum creativity a photogrpaher has to be immersed in the moment. The rest is less importnat that what we feel and see. The power not being in a skill or piece of equipment but in the moment itself.
 
 
+
 Maybe that's progress deciphering sothnessology but I have found myself where he was wondering why I even bother to take photographs.
 The Picture Australia archive was the example that Alec used on his blog that unfortunately no longer exists. Wait here is a [archived version](https://alecsothblog.wordpress.com/2007/08/28/why-bother/)
 Access it here and search “ New South Wales police department”.
