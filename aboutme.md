@@ -7,16 +7,16 @@ published: true
 ---
 
 <figure>
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/witness.jpg" alt="Micco">
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/witness.jpg" alt=" My dog Micco and me">
   <figcaption> My dog Micco and me on the streets of Silverton Colorado</figcaption>
   <figure>
 <br  />
 <p>
 <strong>Artist Statement</strong>
 <p>My curiosity as a photographer is trying to understand cultural landscapes and the resultant physical form. I am self-taught, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. Photography over time of landscapes can reveal how physical form (the built environment) is driven by culture as well as the effects this resultant form has on it's inhabitants.
-  Resource exploitation, racial segregation, materially obsessed cultures all become self fulfilling prophecies, their built form steering culture in a hidden landscape psychology.
+  Resource exploitation, racial segregation, materially obsessed cultures all become self- fulfilling prophecies with their built form steering culture in a hidden landscape psychology.
 
-<p>l am still a beginner to photography, learning to understand the basics of exposure aperture and lens selection. Sometimes I like to film people discussing their experience of place or conflict. The moving image is a combination of audio and image in my work less something new.  Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
+<p>l am still a beginner to photography, learning to understand the basics of exposure aperture and lens selection. Most of the time I shoot manully as it forces me to think about exposure and depth of field. Sometimes I like to film people discussing their experience of place or conflict.  Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
 <p>
