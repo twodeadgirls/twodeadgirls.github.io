@@ -571,6 +571,15 @@ footer .copyright {
   border-bottom-left-radius: 5px;
 }
 
+.figure {
+  float: right;
+  width: 30%;
+  font-style: italic;
+  font-size: 11px;
+  color:#BDC3C7;
+  padding: 0.5em;
+}
+
 #header-gh-btns {
   margin-bottom: 15px;
 }
