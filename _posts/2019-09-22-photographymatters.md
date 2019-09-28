@@ -5,7 +5,7 @@ title: Does photography even matter anymore ?
 ---
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190922_10_168.jpg">
-  <figcaption> Evidence froma gambling arrest via the <a href="http://www.nla.gov.au/what-we-collect/pictures">National Library of Austraila</a> / New South Wales Police Dept. </figcaption>
+  <figcaption> Evidence from a gambling arrest via the <a href="http://www.nla.gov.au/what-we-collect/pictures">National Library of Austraila</a> / New South Wales Police Dept. </figcaption>
   </figure>
 
 
