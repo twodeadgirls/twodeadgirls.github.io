@@ -12,9 +12,9 @@ published: true
 <p>
 <strong>Artist Statement</strong>
 <p>My interest as a photographer is trying to understand cultural landscapes and the resultant physical form. I am self-taught, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. Photography over time of landscapes can reveal how physical form (the built environment) is driven by culture as well as the effects this resultant form has on it's inhabitants.
-  Resource exploitation, racial segregation, and materially obsessed cultures all become self fulfilling prophecies, their built form 
+  Resource exploitation, racial segregation, materially obsessed cultures all become self fulfilling prophecies, their built form steering culture in a hidden landscape psychology.
 
-<p>l am still a beginner to photogrpahy, learning to understand the basics of exposure aperture and lens selection. Sometimes I like to film people discussing their experience of place or conflict. The moving image is a combination of audio and image in my work less something new.  Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
+<p>l am still a beginner to photography, learning to understand the basics of exposure aperture and lens selection. Sometimes I like to film people discussing their experience of place or conflict. The moving image is a combination of audio and image in my work less something new.  Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
 <p>
