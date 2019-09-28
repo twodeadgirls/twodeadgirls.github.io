@@ -17,7 +17,7 @@ I remember Alec Soth asked this same question several years ago when he carried 
 I dont know Soth , maybe one day I will meet him as I am a fan. But I suspect Soth is speaking to us beyond what his words mean. Hes asking us to have that same feeling so we recoginize something inside us. Like the artists that remain childlike in wonder for maximum creativity a photographer has to be immersed in moment. The rest is less importnat than what we feel and see. The power not being in a skill or piece of equipment but in the moment itself.
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/2019092205_002tpktg.jpg">
-  <figcaption> via the <a href="http://www.nla.gov.au/what-we-collect/pictures">National Library of Austraila</a> / New South Wales Police Dept. </figcaption>
+  <figcaption>Mugshot via the <a href="http://www.nla.gov.au/what-we-collect/pictures">National Library of Austraila</a> / New South Wales Police Dept. </figcaption>
   </figure>
 
 
