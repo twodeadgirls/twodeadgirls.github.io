@@ -4,10 +4,7 @@ published: true
 title: Silverton withdrawal syndrome
 subtitle: A flatlander I have become.
 ---
-<figure>
-![Silverton Colorado](https://jonbcarroll.s3.us-east-2.amazonaws.com/_ston.jpg)
-  <figcaption> Silverton Colorado on a moonlit night as viewed from the Miner's shrine</figcaption>
-  </figure>
+
   
 <figure>
   <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/_ston.jpg" alt="Silverton Colorado">
