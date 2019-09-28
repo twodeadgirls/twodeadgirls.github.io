@@ -26,6 +26,10 @@ The Picture Australia archive was the example that Alec used on his blog that un
 Access it here and search “ New South Wales police department”.
 Studying these images there is a conclusion reached. An anonymous police photographer can produce as powerful a image as any professional photographer.
 Vernacular photography like this is always the most powerful of imagery in my mind.
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190922_09_002trh97.jpg">
+  <figcaption> Group mugshot via the <a href="http://www.nla.gov.au/what-we-collect/pictures">National Library of Austraila</a> / New South Wales Police Dept. </figcaption>
+  </figure>
+
 
 My work like most who pursue this frustrating path of documentary photography is plagued with self-consciousness. Living in a isolated rural Alabama where there is no art community and the very word considered evil among evanglicals doesn't help.
 This feeling infects you to the degree that nothing you do has meaning or is good enough to your own eye.
