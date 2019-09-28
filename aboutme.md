@@ -29,7 +29,7 @@ For a tutorial on how I set my system up  <a href="https://www.jonbcarroll.com/"
    <br  />
 <p>
 <strong>Recent</strong>
-  <p>In 2016 I filmed several interviews in <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon to protest a ranching family’s incarcration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
+  <p>In 2016 I filmed several interviews in <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon to protest a ranching family’s incarceration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
     
 <p>In 2014 Awarded the Zilphea Horton Grant by the <a href="https://www.highlandercenter.org">Highlander Foundation</a>. 
   This was used to research and <a href="https://medium.com/@jonbcarroll/leaked-documents-reveal-dothan-police-department-alleged-to-have-planted-drugs-f89109dc196e"> document victims</a> in a community ranked by Harvard's Center for Government Ethics as one of the most corrupt in the nation - Alabama’s 20th judicial district. A book of these photographs, “Save the Kennys” is forthcoming.
