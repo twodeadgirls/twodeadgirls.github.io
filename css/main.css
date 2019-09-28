@@ -571,11 +571,11 @@ footer .copyright {
   border-bottom-left-radius: 5px;
 }
 
-.figure {
+figure {
   float: right;
   width: 30%;
   font-style: italic;
-  font-size: 11px;
+  font-size: smaller;
   color:#BDC3C7;
   padding: 0.5em;
 }
