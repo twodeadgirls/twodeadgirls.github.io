@@ -43,9 +43,9 @@ Vernacular photography like this is always the most powerful of imagery in my mi
   <figcaption> Mugshot via the <a href="http://www.nla.gov.au/what-we-collect/pictures">National Library of Austraila</a> / New South Wales Police Dept. </figcaption>
   </figure>
 
-My work like most who pursue documentary photography is plagued with self-consciousness and doubt. Living in an isolated rural Alabama where there is no art community and the very word considered evil among evanglicals doesn't help.
+My work like most documentary photography is plagued with self-consciousness and doubt. Living in an isolated rural Alabama where there is no art community and the very word considered evil among evanglicals doesn't help.
 This feeling infects you to the degree that nothing you do has meaning or is good enough to your own eye.
 
-But this I forgot until Soth remidned me is what makes you better. 
+But this I forgot until Soth remidned me it's what makes you better. 
 
 
