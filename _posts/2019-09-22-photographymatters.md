@@ -22,7 +22,7 @@ But this I forget is what makes you have a better eye when that button is pushed
 Maybe that's hopeful mumbo jumbo. Maybe not.
 My list (ever expanding) to remind me of why its meaningful.
 1.  [Diane Arbus](www.artnet.com/artists/diane-arbus/)
-2. [William Allard](https://www.williamalbertallard.com/)
+2. [William Allard](https://www.williamalbertallard.com/blog/)
 3.
 
 
