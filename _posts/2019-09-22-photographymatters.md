@@ -15,6 +15,7 @@ I dont know Laec , maybe one day I will meet him as I am certainly a fan. But I 
   <a href-"http://www.nla.gov.au/what-we-collect/pictures" </a>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/2019092205_002tpktg.jpg">
   <figcaption> via the National Library of Austraila / New South Wales Police Dept. </figcaption>
+  </figure>
 
 
 Maybe that's progress deciphering sothnessology but I have found myself where he was wondering why I even bother to take photographs.
