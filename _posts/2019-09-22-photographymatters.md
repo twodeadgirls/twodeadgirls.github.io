@@ -11,8 +11,9 @@ Does photography really matter - fuck that's a hard question.
 
 I remember Alec Soth asked this same question several years ago when he carried his class to a exhibit by [Joachim Schmid](http://www.lumpenfotografie.de). Schmid's work is made from found photographs not ones he photographs himself. Soth said its unfair a anonymous police photographer can be so good. 
 I dont know Laec , maybe one day I will meet him as I am certainly a fan. But I suspect Soth is speaking in code. Hes asking us to have that same feeling so we recoginize something. Like the artissts that remain childlike in wonder for maximum creativity a photogrpaher has to be immersed in the moment. The rest is less importnat that what we feel and see. The power not being in a skill or piece of equipment but in the moment itself.
-
-<imgsrc="https://jonbcarroll.s3.us-east-2.amazonaws.com/2019092205_002tpktg.jpg">
+<figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/2019092205_002tpktg.jpg">
+  <figcaption> via the National Library of Austraila </figcaption>
 
 
 Maybe that's progress deciphering sothnessology but I have found myself where he was wondering why I even bother to take photographs.
@@ -31,10 +32,3 @@ My list (ever expanding) to remind me of why its meaningful.
 1.  [Diane Arbus](www.artnet.com/artists/diane-arbus/)
 2. [William Allard](https://www.williamalbertallard.com/blog/)
 3.
-
-
-
-
-
-
-
