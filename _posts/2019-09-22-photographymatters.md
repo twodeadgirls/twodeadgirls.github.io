@@ -21,11 +21,11 @@ I dont know Soth , maybe one day I will meet him as I am a fan. But I suspect So
   </figure>
 
 
-Maybe that's progress deciphering sothnessology but I have found myself where he was wondering why I even bother to take photographs.
+Maybe that's progress deciphering "sothology" but I have found myself where he was wondering why I even bother to take photographs.
 The Picture Australia archive was the example that Alec used on his blog that unfortunately no longer exists. Wait here is a [archived version](https://alecsothblog.wordpress.com/2007/08/28/why-bother/)
 Access it here and search “ New South Wales police department”.
 Studying these images there is a conclusion reached. An anonymous police photographer can produce as powerful a image as any professional photographer.
-Vernacular photography like this is always the most powerful of imagery in my mind.
+Vernacular photography like this is always the most powerful of imagery in my mind. But I have to wonder in 1930 when these photogrpahs were tken did they relaize just how good they were and would they have ever thought they would be considered art and exhibited in other countries?
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190922_09_002trh97.jpg">
   <figcaption> Group mugshot via the <a href="http://www.nla.gov.au/what-we-collect/pictures">National Library of Austraila</a> / New South Wales Police Dept. </figcaption>
@@ -38,7 +38,4 @@ This feeling infects you to the degree that nothing you do has meaning or is goo
 But this I forget is what makes you better. 
 Maybe that's hopeful mumbo jumbo. Maybe not.
 
-My list (ever expanding) to remind me of why its meaningful.
-1.  [Diane Arbus](www.artnet.com/artists/diane-arbus/)
-2. [William Allard](https://www.williamalbertallard.com/blog/)
-3.
+
