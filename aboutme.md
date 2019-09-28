@@ -8,7 +8,7 @@ published: true
 
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/witness.jpg" alt="Micco">
-  <figcaption> My dog Micco and I oin the streets of Silverton Colorado</figcaption>
+  <figcaption> My dog Micco and me on the streets of Silverton Colorado</figcaption>
   <figure>
 <br  />
 <p>
