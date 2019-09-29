@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How this page works for those interested.
-subtitle: Each post also has a subtitle
+subtitle: 
 publish: false
 comments: true
 ---
