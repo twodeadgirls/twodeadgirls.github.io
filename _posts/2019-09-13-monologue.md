@@ -2,9 +2,8 @@
 layout: post
 title: Antifa vs the Proud Boys
 tags:
-  - books
-  - shakespeare
-  - test
+  - the bill files
+
 published: true
 ---
 
