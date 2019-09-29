@@ -13,17 +13,17 @@ published: true
 <br  />
 <p>
 <strong>Artist Statement</strong>
-<p>My curiosity is trying to understand cultural landscapes and the resultant physical form. I am a self-taught photographer, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. I believe photography and drawings of landscapes reveal how physical form (the built environment) is driven by culture as well as reveal the effects resultant form has on inhabitants.
-  Resource exploitation, racial segregation, materially obsessed capitalist cultures all become self-fulfilling prophecies the built form steering culture in a hidden landscape psycholgy.
+<p>I use photography to document cultural landscapes and the resultant physical form. I am a self-taught, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. I believe photography and drawings of landscapes reveal how physical form (the built environment) is driven by culture as well as reveal the influence resultant form has on inhabitants.
+  Resource exploitation, racial segregation, and a materially obsessed capitalist cultures all become self-fulfilling prophecies their built form steering culture in a psychology of landscape.
 
-<p>l am still a beginner to photography, learning to understand the basics of exposure aperture and lens selection. Most of the time I shoot manully as it forces me to think about exposure and depth of field making intuitive. Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
+<p>l am still a beginner to the medium, learning to understand the basics of exposure aperture and lens selection. Most of the time I shoot manully as it forces me to think about exposure and depth of field making it intuitive. Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
 <p>
 <strong>Equipment</strong> 
- <p>I use the Fuji XPro and <a href="https://www.fujifilmusa.com/products/digital_cameras/x-lenses/">their fixed x series lenses- 16/23/35/56</a> Fuji’s system is small weatherproof and very durable. It's sensor captures a gorgeous spectrum of color.  
-   Summers I work as a mountain guide in the San Juan mountains of Colorado between 10 and 14 thousand feet in elevation so my camera must fit in a backpack, be lightweight and work in any weather condition. Also critical the Fuji system is very usable by horse.
-Digitally I keep things minimal using an iPad pro, editing kept to a minimum with Lightroom. With the iPad I've found I can use open source software, Jekyll and Github to maintain this page. The core idea is be mobile and self reliant, not needing electricity except what a backpack based solar unit can provide and avoid the use of a laptop or desktop. If I can't do all I need to do on the hood of my truck or trail then it doesnt work.
+ <p>I use the Fuji XPro and <a href="https://www.fujifilmusa.com/products/digital_cameras/x-lenses/">their fixed x series lenses- 16/23/35/56</a>. Fuji’s system is small weatherproof and very durable. It's sensor captures a gorgeous spectrum of color.  
+   Seasonally I work as a mountain guide in the San Juan mountains of Colorado between 10 and 14 thousand feet in elevation so my camera must fit in a backpack, be lightweight and work in any weather condition. Also critical the Fuji system is very usable by horseback.
+Digitally I keep things minimal using an iPad pro, editing kept to a minimum with Lightroom. With the iPad I've found I can use open source software, Jekyll and Github to maintain this page to record my ideas. The core idea is be mobile and self reliant, not needing electricity except what a backpack based solar unit can provide and avoid the use of a laptop or desktop. If I can't do all I need to do on the hood of my truck or trail then it doesnt work.
 For a tutorial on how I set my system up  <a href="https://www.jonbcarroll.com/">click here</a>.
 
    <br  />
@@ -42,9 +42,9 @@ For a tutorial on how I set my system up  <a href="https://www.jonbcarroll.com/"
 <p>
 <strong>Education</strong>
   
-<p>My research interest is primarily documenting cultural landscapes, the resultant culure they form and how that specifically influences culture and creates myth.
+<p>My research interest is documenting cultural landscapes, the resultant culure they form and how that specifically influences culture and creates myth. <br  />
   
-Harvard University, English Literature, 2013
-Auburn University, Masters Landscape Architecture, 2012
-Auburn University, BS Architecture 1998
+Harvard University, English Literature, 2013.
+Auburn University, Masters Landscape Architecture, 2012.
+Auburn University, BS Architecture 1998.
 Auburn University, BA Environmental Design 1990.
