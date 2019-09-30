@@ -27,8 +27,14 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_beetlebrain.jpg">
  
 <p>Dung beetles use a combination of polarized light and celestial navigation to know exactly where they are. Additionally they track the moon over its lunar cycle and use it for night-time navigation which is when they are most active. A lot of homing insects, like bees and ants, employ a long-term memory of visual landmarks to find their way home, but dung beetles however use stars and the lunar position for a type of celestial navigation that is complex and not fully understood. Ironically the Egyptians thought these insects (known to them as scarabs) were gods. These are the only known members of the animal other than humans that use stars to navigate.
  <p> 
- <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_gps.gif" alt="GPS diagram" align="left">
-   <img src="  https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_GPS.jpg" alt="GPS diagram" align="right">
+  <table>
+<tr> <td>
+<img src=“https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_gps.gif” alt=“GPS”>
+</td>
+<td> <img src=“https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_GPS.jpg” alt="GPS "> </td>
+</tr>
+</table>
+
 
   <p>
 I am hopeful that with advances in a.i. and minaturzation of technology we can study and fully understand how this works and it could be of great value to how humans ultimately navigate space.
