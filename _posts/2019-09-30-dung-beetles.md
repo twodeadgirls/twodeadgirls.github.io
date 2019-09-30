@@ -27,7 +27,7 @@ They are magnificent creatures that are increasingly being eliminated by chemica
  <figure>
 <img src="
 https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_beetlebrain.jpg">
-<figcaption> Neuroanatomy of a dung beetle brain</figcaption>
+<figcaption> Neuroanatomy of dung beetle brain</figcaption>
 </figure>
  
 <p>These beetles use a combination of polarized light and celestial navigation to know exactly where they are. When doing this they track the moon over its lunar cycle and use it for night-time navigation (which is when they are most active). A lot of homing insects, like bees and ants, it is believed employ a long-term memory of visual landmarks to find their way home, but dung beetles are radically different and use stars and the lunar position for a type of celestial navigation that is complex and not understood. Ironically the ancient Egyptians thought these insects (known to them as scarabs) were gods. These are the only known biological entity other than humans that use stars to navigate. This god analogy - and I belive that is exactly what it was due to the knowledge they have is far more powerful and accurate than the GPS system we currently use diagrammed below. 
@@ -59,11 +59,11 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
 <figure>
  
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930-beetles-48-72.jpg">
-<figcaption>36 hours elapsed</figcaption>
+<figcaption>48 and 72 hours elapsed</figcaption>
 </figure>
 <p>
 <iframe src="https://player.vimeo.com/video/363429651?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/363429651">Dung beetles</a> from <a href="https://vimeo.com/jonbcarroll">Jon Carroll</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 <p>Earlier this summer I went to central Florida to visit Sandra Marvel at Marvel Farms  - she and her husband have brangus cattle operation and I purchased a hundred beetles to re-establish them in my pastures in south Alabama.
  I've learned several things kill beetles. Most common is how we treat cattle, a commonly used medicine Ivomectin for example can eliminate beetle populations for years as can roadside right-of-way herbicides. There are options as to how this can be avoided which I will document this spring.
