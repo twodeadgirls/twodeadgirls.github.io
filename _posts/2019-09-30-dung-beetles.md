@@ -12,21 +12,21 @@ date: 2019-09-30
 
 
 One of the most powerful tools a rancher has to improve pastures is this little creature right here, the dung beetle.
-They are magnificent creatures that are increasingly being eliminated by chemicals used to treat cattle in the southern United States. I've been studying these beauties this summer and want to share a few fascinating facts about them and discuss the promise they have to combat global warming. A healthy population of dung beetles sequester carbon back into the soil, the degree of this is unknown but may have huge benefits that we dont fully understand.
+They are magnificent creatures that are increasingly being eliminated by chemicals used to treat cattle in the southern United States. I've been studying these beauties all summer and want to share a few facts about them and discuss the promise they have to combat global warming. A healthy population of dung beetles sequester carbon in the soil, the degree of this is unknown but may have huge benefits that we dont fully understand. Contrary to the current debate on methane emitted from cows the dung beetle may capture more carbon that what is emitted in the forst place. 
+<p> The basics are a dung beetle flies around pastures at night and digs into manure. Their are different ypes of beetles, burrowers who as you can imagine dig into the excrement (cow patty)and then tunnel beneath it up to a foot or more deep and deposit their eggs. the tunmels are filled with exrement which is partially eatne as the new hatched beetles come back out. The effect this can have at fertilizing and aerating a pasture is profound. This is aprt form the fact they eat fly alrvae and reduce fly and parasite populations in your herd.
 <p>
- Even stranger I learned is that dung beetles have a biologically unique GPS system. The neuroanatomy of the dung beetle is fascinating.
+ Even stranger I learned is that dung beetles have a biologically unique GPS system. The neuroanatomy of the dung beetle is fascinating. 
  <figure>
 <img src="
 https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_beetlebrain.jpg">
 <figcaption> Neuroanatomy of a dung beetle brain</figcaption>
 </figure>
  
-<p>Dung beetles are unique as thy use a combination of polarized light and celestial navigation to know exactly where they are. Additionally they track the moon over its lunar cycle and use it for night-time navigation which is when they are most active in pastures. A lot of homing insects, like bees and ants, employ a long-term memory for visual landmarks to find their way home, but dung beetles however use stars and the lunar position for a type of celestial navigation that is unique. Ironically the Egyptians thought these insects (known to them as scarabs) were gods. 
- 
+<p>Dung beetles are unique as thy use a combination of polarized light and celestial navigation to know exactly where they are. Additionally they track the moon over its lunar cycle and use it for night-time navigation which is when they are most active in pastures. A lot of homing insects, like bees and ants, employ a long-term memory for visual landmarks to find their way home, but dung beetles however use stars and the lunar position for a type of celestial navigation that is unique. Ironically the Egyptians thought these insects (known to them as scarabs) were gods. Tese are the only known members of the animal other than humans that use stars to navigate.
  <figure>
 <img src="
 hhttps://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
-<figcaption> Measurments of the active neural area of dung beetle brain used for navigation as compared to other insects</figcaption>
+<figcaption> Measurements of the active neural area of dung beetle brain used for navigation as compared to other insects</figcaption>
 </figure>
 
 
