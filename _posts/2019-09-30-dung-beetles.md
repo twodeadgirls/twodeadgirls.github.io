@@ -12,7 +12,7 @@ date: 2019-09-30
 
 
 One of the most powerful tools a rancher has to improve pastures/grazing is this little creature right here, the dung beetle.
-They are magnificent creatures that are increasingly being eliminated by chemicals used to treat cattle in the southern United States. I've been studying these beauties this summer and want to share a few fascinating facts about them and discuss the promise they have to combat global warming.
+They are magnificent creatures that are increasingly being eliminated by chemicals used to treat cattle in the southern United States. I've been studying these beauties this summer and want to share a few fascinating facts about them and discuss the promise they have to combat global warming. A healthy population of dung beetles sequester carbon back into the soil, the degree of this is unknown but may have huge benefits that we dont fully understand.
 
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190928-dungbeetles.jpg">
