@@ -53,7 +53,7 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
 
 
 <figure>
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190928-dungbeetles-24.jpg">
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190928-dungbeetles-36.jpg">
 <figcaption>36 hours elapsed</figcaption>
 </figure>
 
