@@ -41,7 +41,7 @@ I believe in time we will be able to develop a biological system of navigation b
  <p>
  <figure>
 <img src="
-hhttps://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
+https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
 <figcaption> Measurements of the active neural area of dung beetle brain used for navigation as compared to other insects</figcaption>
 </figure>
 
