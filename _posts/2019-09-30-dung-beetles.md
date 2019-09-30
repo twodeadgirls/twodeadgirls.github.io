@@ -61,7 +61,9 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930-beetles-48-72.jpg">
 <figcaption>36 hours elapsed</figcaption>
 </figure>
-
+<p>
+<iframe src="https://player.vimeo.com/video/363429651?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/363429651">Dung beetles</a> from <a href="https://vimeo.com/jonbcarroll">Jon Carroll</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <p>Earlier this summer I went to central Florida to visit Sandra Marvel at Marvel Farms  - she and her husband have brangus cattle operation and I purchased a hundred beetles to re-establish them in my pastures in south Alabama.
  I've learned several things kill beetles. Most common is how we treat cattle, a commonly used medicine Ivomectin for example can eliminate beetle populations for years as can roadside right-of-way herbicides. There are options as to how this can be avoided which I will document this spring.
