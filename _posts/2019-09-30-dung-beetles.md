@@ -57,8 +57,8 @@ hhttps://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
 <figcaption>36 hours elapsed</figcaption>
 </figure>
 
-<p>Earlier this summer I went to central Florida to Marvel Farms - a red angus cattle operation and purchased a hundred beetles in an effort to re-establish the beetles to my pastures.
- Several things kill beetles. Most common is how we treat cattle, a commonly used medicine Ivomectin for example can eliminate beetle populations for years as can roadside right of way herbicides. There are options as to how this can be avoided which I will document this spring.
+<p>Earlier this summer I went to central Florida to visit Sandra Marvel at Marvle Farms  - she and her hsuband have brangus cattle operation and purchased a hundred beetles to re-establish the beetles to my pastures in south Alabama.
+ I've leanred several things kill beetles. Most common is how we treat cattle, a commonly used medicine Ivomectin for example can eliminate beetle populations for years as can roadside right of way herbicides. There are options as to how this can be avoided which I will document this spring.
  <p> 
   If you have made it this far you can see this is a favorite topic of mine that I feel provides us the opportuniy to leanr so much more about ecology and livestock foraging. This is a subject I will come back to. one thing I want to do is try to develop a way tophotogrpah the beetles flying at night and get airborne counts. Let me think through this and what I need.
   Dung beetles people, they are fascinating and valuable to our landscapes.
