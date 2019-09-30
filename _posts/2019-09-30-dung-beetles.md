@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dung beetles
+title: My obsession with Dung beetles
 subtitle: 
 publish: true
 date: 2019-09-30
@@ -20,7 +20,7 @@ They are magnificent creatures that are increasingly being eliminated by chemica
 https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_beetlebrain.jpg">
 <figcaption> Neuroanatomy of a dung beetle brain</figcaption>
 </figure>
-Dung beetles are unique as thy use a combination of polarized light and celestial navigation to know exactly where they are. Additionally they track the moon over its lunar cycle and use it for night-time navigation which is when they are most active in pastures. A lot of homing insects, like bees and ants, employ a long-term memory for visual landmarks to find their way home, but dung beetles however use stars and the lunar position for a type of celestial navigation that is unique. Ironically the Egyptians thought these insects (known to them as scarabs) were gods. 
+<p>Dung beetles are unique as thy use a combination of polarized light and celestial navigation to know exactly where they are. Additionally they track the moon over its lunar cycle and use it for night-time navigation which is when they are most active in pastures. A lot of homing insects, like bees and ants, employ a long-term memory for visual landmarks to find their way home, but dung beetles however use stars and the lunar position for a type of celestial navigation that is unique. Ironically the Egyptians thought these insects (known to them as scarabs) were gods. 
 
 
 
@@ -34,7 +34,8 @@ Dung beetles are unique as thy use a combination of polarized light and celestia
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190928-dungbeetles-24.jpg">
 <figcaption>36 hours elapsed</figcaption>
 </figure>
- Earlier this summer I went to central Florida to Marvel Farms - a red angus cattle operation and purchased a hundred beetles in an effort to re-establish the beetles to my pastures.
+
+<p>Earlier this summer I went to central Florida to Marvel Farms - a red angus cattle operation and purchased a hundred beetles in an effort to re-establish the beetles to my pastures.
  Several things kill beetles. Most common is how we treat cattle, a commonly used medicine Ivomectin for example can eliminate beetle populations for years. There are options as to how this can be avoided which I will document this spring.
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Zoo-Beetles.jpg">
