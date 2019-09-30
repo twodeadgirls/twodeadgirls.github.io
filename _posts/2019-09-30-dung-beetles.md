@@ -25,20 +25,11 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_beetlebrain.jpg">
 <figcaption> Neuroanatomy of a dung beetle brain</figcaption>
 </figure>
  
-<p>Dung beetles use a combination of polarized light and celestial navigation to know exactly where they are. Additionally they track the moon over its lunar cycle and use it for night-time navigation which is when they are most active. A lot of homing insects, like bees and ants, employ a long-term memory of visual landmarks to find their way home, but dung beetles however use stars and the lunar position for a type of celestial navigation that is complex and not fully understood. Ironically the Egyptians thought these insects (known to them as scarabs) were gods. These are the only known members of the animal other than humans that use stars to navigate.
+<p>Dung beetles use a combination of polarized light and celestial navigation to know exactly where they are. Additionally they track the moon over its lunar cycle and use it for night-time navigation which is when they are most active. A lot of homing insects, like bees and ants, employ a long-term memory of visual landmarks to find their way home, but dung beetles however use stars and the lunar position for a type of celestial navigation that is complex and not fully understood. Ironically the Egyptians thought these insects (known to them as scarabs) were gods. These are the only known members of the animal other than humans that use stars to navigate. This analogy - and I belive that is exactly what is was due to the knowledge they have is far more powerrul and accurate than the system we currently use diagrammed below. 
  <p> 
- 
-
-<div class="row">
-  <div class="column">
-    <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_gps.gif" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
     <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_GPS.jpg" alt="Forest" style="width:100%">
-  </div>
-</div>
   <p>
-I am hopeful that with advances in a.i. and minaturzation of technology we can study and fully understand how this works and it could be of great value to how humans ultimately navigate space.
+I am hopeful that with advances in a.i. and minaturzation of technology we can study and fully understand how this works and it could be of great value to how humans ultimately navigate space. 
 I believe in time we will be able to more fully understand how the beetle can navigate based on its analysis of light. Contrast that to the complex technology and infrastructure we use at present to navigate - a system of sattelites (currently 32 ) that requires line-of-sight with incredibly expensive optics with at least four satellites orbiting overhead. 
  A dung beetle has sub-centimeter accuracy with the biological surface area smaller than a pin tip.
  
