@@ -22,4 +22,11 @@ They are magnificent creatures that are increasingly being eliminated by chemica
 Below is a before and after 36 hours shot.
 ![36 hours elapsed](https://jonbcarroll.s3.us-east-2.amazonaws.com/20190928-dungbeetles-24.jpg)
 
+ Earlier this summer I went to central Florida and purchased some ina effort to re establish the beetles.
+<figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Zoo-Beetles.jpg">
+<figcaption> These are the different types I've been able to identify so far in my pastures in south Alabama.</figcaption>
+</figure>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZRN-Lu-m-oY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
