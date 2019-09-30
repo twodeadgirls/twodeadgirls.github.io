@@ -35,7 +35,14 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_beetlebrain.jpg">
 </tr>
 </table>
 
-
+<div class="row">
+  <div class="column">
+    <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_gps.gif" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_GPS.jpg" alt="Forest" style="width:100%">
+  </div>
+</div>
   <p>
 I am hopeful that with advances in a.i. and minaturzation of technology we can study and fully understand how this works and it could be of great value to how humans ultimately navigate space.
 I believe in time we will be able to more fully understand how the beetle can navigate based on its analysis of light. Contrast that to the complex technology and infrastructure we use at present to navigate - a system of sattelites (currently 32 ) that requires line-of-sight with incredibly expensive optics with at least four satellites orbiting overhead. 
