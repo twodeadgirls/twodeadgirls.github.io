@@ -10,7 +10,7 @@ publish: true
 date: 2019-09-30
 ---
 <figure>
-![Arrows indicate where dung beetles enter](https://jonbcarroll.s3.us-east-2.amazonaws.com/20190928-dungbeetles.jpg)
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190928-dungbeetles.jpg"
 <figcaption> All the holes indicated are where dung beetles burrowed in</figcaption>
 </figure>
 
