@@ -34,8 +34,8 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_beetlebrain.jpg">
  <p> 
     <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_GPS.jpg" alt="Forest" style="width:100%">
   <p>
-I am hopeful that with advances in a.i. and minaturization of technology we can study and learn to fully understand how this system works as it could be of great value to how humans ultimately navigate space. The knowledge to identify one’s location from the light transmitted by stars would be a remarkable achievement.
-I believe in time we will be able to develop a biological system of navigation based on how these beetle navigate according to an analysis of light. Contrast that to the incredibly  complex technology and infrastructure we use at present to navigate - a system of satellites (currently 32 ) requiring line-of-sight with expensive optics and a hand-held reciever depending on at least the ability to connect to four satellites orbiting overhead. 
+I am hopeful with advances in a.i. and minaturization of technology we can study and learn to fully understand how this system works as it could be of great value to how humans ultimately navigate space. The knowledge to identify one’s location from the light transmitted by stars would be a remarkable achievement.
+I believe in time we will be able to develop a system of navigation based on how these beetle navigate according to an analysis of light. Contrast that to the incredibly complex technology and infrastructure we now use to navigate - a system of satellites (currently 32 ) requiring line-of-sight with expensive optics and a hand-held recievers depending on at least the ability to connect to four satellites orbiting overhead. 
  A dung beetle has sub-centimeter accuracy with the biological surface area smaller than a pin tip.
  
  <p>
@@ -57,11 +57,11 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
 <figcaption>36 hours elapsed</figcaption>
 </figure>
 
-<p>Earlier this summer I went to central Florida to visit Sandra Marvel at Marvel Farms  - she and her husband have brangus cattle operation and I purchased a hundred beetles from them to re-establish beetles in my pastures in south Alabama.
+<p>Earlier this summer I went to central Florida to visit Sandra Marvel at Marvel Farms  - she and her husband have brangus cattle operation and I purchased a hundred beetles to re-establish them in my pastures in south Alabama.
  I've learned several things kill beetles. Most common is how we treat cattle, a commonly used medicine Ivomectin for example can eliminate beetle populations for years as can roadside right-of-way herbicides. There are options as to how this can be avoided which I will document this spring.
  <p> 
-  If you have made it this far you can see this is a favorite topic of mine that I feel provides us the opportuniy to learn so much more about ecology and livestock foraging. This is a subject I will come back to. One thing I want to do is try to develop a way photograph the beetles flying at night and get airborne counts. Let me think through this and what I need.
-  Dung beetles people, they are fascinating and valuable to our landscapes.
+  If you have made it this far you can see this is a favorite topic of mine that I feel provides us the opportuniy to learn so much more about ecology and livestock. This is a subject I will come back to many times. One thing I want to do is try to develop a way photograph the beetles flying at night and get airborne counts. Let me think through this and what I need.
+  Dung beetles people, they are fascinating and valuable to our landscapes value them!
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Zoo-Beetles.jpg">
 <figcaption> These are the different types I've been able to identify so far</figcaption>
