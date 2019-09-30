@@ -12,7 +12,9 @@ date: 2019-09-30
 
 
 One of the most powerful tools a rancher has to improve pastures is this little creature right here, the dung beetle.
-They are magnificent creatures that are increasingly being eliminated by chemicals used to treat cattle in the southern United States. I've been studying these beauties all summer and want to share a few facts about them and discuss the promise they have to combat global warming. A healthy population of dung beetles sequester carbon in the soil, the degree of this is unknown but may have huge benefits that we dont fully understand. Contrary to the current debate on methane emitted from cows the dung beetle may capture more carbon that what is emitted in the forst place. 
+They are magnificent creatures that are increasingly being eliminated by chemicals used to treat cattle in the southern United States. I've been studying these beauties all summer and want to share a few facts about them and discuss the promise they have to combat global warming and be the answer to future space navigation. A healthy population of dung beetles sequester carbon in the soil, the degree of this is unknown but may have huge benefits that we dont fully understand. 
+<p>So contrary to the current debate on methane emitted from cows the dung beetle may actually capture more carbon that what is emitted in the first place.
+ 
 <p> The basics are a dung beetle flies around pastures at night and digs into manure. Their are different ypes of beetles, burrowers who as you can imagine dig into the excrement (cow patty)and then tunnel beneath it up to a foot or more deep and deposit their eggs. The tunnels ( think nurseries) are filled with excrement which is partially eaten as the new hatched beetles come back out. Once hatched and they fly away the result is small holes punched into the soil lined with manure that fiull with water and aerate the soil. The effect this can have on a pasture over time is profound. This is apart form the fact they eat fly larvae reducing fly and parasite populations.
 <p>
  Even stranger I learned is that dung beetles have a biologically unique GPS system. The neuroanatomy of the dung beetle is fascinating. 
@@ -26,6 +28,8 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_beetlebrain.jpg">
 <p>Dung beetles use a combination of polarized light and celestial navigation to know exactly where they are. Additionally they track the moon over its lunar cycle and use it for night-time navigation which is when they are most active. A lot of homing insects, like bees and ants, employ a long-term memory of visual landmarks to find their way home, but dung beetles however use stars and the lunar position for a type of celestial navigation that is complex and not fully understood. Ironically the Egyptians thought these insects (known to them as scarabs) were gods. These are the only known members of the animal other than humans that use stars to navigate.
  <p> 
  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_gps.gif" alt="GPS diagram" align="left">
+   <img src="  https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_GPS.jpg" alt="GPS diagram" align="right">
+
   <p>
 I am hopeful that with advances in a.i. and minaturzation of technology we can study and fully understand how this works and it could be of great value to how humans ultimately navigate space.
 I believe in time we will be able to more fully understand how the beetle can navigate based on its analysis of light. Contrast that to the complex technology and infrastructure we use at present to navigate - a system of sattelites (currently 32 ) that requires line-of-sight with incredibly expensive optics with at least four satellites orbiting overhead. 
