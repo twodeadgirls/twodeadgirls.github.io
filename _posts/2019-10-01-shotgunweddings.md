@@ -21,6 +21,10 @@ One had a bass tattooed on his back, his wife a gun with her husband’s and her
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191001_Bluespring_DSF9443.jpg">
 <figcaption> Francis jumping into 59 degree water, Blue Springs State Park</figcaption>
 </figure>
+<figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191001_Bluespring_DSF9452.jpg">
+<figcaption> Francis' million dollar smile</figcaption>
+</figure>
 
 After watching people at the park all afternoon, I went to a place with a history I know, Money’s grill and further reflected. I know the people, the dead ones, those alive, the places it moved around town through the decades. Always the same food, the same menu. I sit at the same table, table “A.” 
 
