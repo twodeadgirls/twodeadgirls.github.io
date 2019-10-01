@@ -37,6 +37,11 @@ Understanding frustration as Jean Sarte did does not make it any less frustratin
 
 The challenge I've learned is to realize the value of those things and cherish them. To distill and focus one’s life on meaning. If your a landscape architect, you have some solace in the fact your creating places like the park at Blue Springs where everyday life gets to happen, so what you do does matter. But not as much as how you live it. 
 
+<figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191001_Bluespring_DSF9456.jpg">
+<figcaption> True love tattoo, Blue Springs State Park</figcaption>
+</figure>
+
 Still for the record call me crazy if you wish, if I had my choice, I would have eloped with her at 15 on the eve of her 16th birthday and kept her pregnant for over a decade, and yes her ass would be as wide as a truck. We would not go to gyms, not know what yoga is and shop at the Piggy Wiggly, not Whole Foods. But it wouldn’t have mattered one damn bit, she would still be hot potatoes and somewhere on my body at a secret place of her choosing, would be a heart with her name tattooed in it.
 True love and a life well lived are as good as it gets is my conclusion.
 
