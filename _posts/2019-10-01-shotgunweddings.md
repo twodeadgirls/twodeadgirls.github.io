@@ -40,7 +40,7 @@ Our lives would be defined by the home we made and the family we raised.
 
 Modern culture tells us this is wrong, but I beg to differ.
 It is nice to know what Martin Heidegger said, understand Hegel, ponder Nietzsche …but does it matter? Does knowing what these men thought, about what we all have to experience, having a decent state school education followed by one in the ivy league make any real difference in the meaning of my life? Being radically honest, it does not. It is of little value to understanding why life is frustrating when regardless of what you know or how you live …it will be frustrating at times. 
-Understanding frustration as Jean Sarte did does not make it any less frustrating. This couple watching their kids play try not to drown themselves probably are happier than I will ever be. The irony of life is they don’t even know it. 
+Understanding frustration as Jean-Paul Sarte did does not make it any less frustrating. This couple watching their kids play try not to drown themselves probably are happier than I will ever be. The irony of life is they don’t even know it. 
 
 The challenge I've learned is to realize the value of those things and cherish them. To distill and focus one’s life on meaning. If your a landscape architect, you have some solace in the fact your creating places like the park at Blue Springs where everyday life gets to happen, so what you do does matter. But not as much as how you live it. 
 
