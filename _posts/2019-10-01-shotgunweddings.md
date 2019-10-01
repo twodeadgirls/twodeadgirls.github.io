@@ -10,9 +10,10 @@ date: 2019-10-01
 <figcaption> At the old pool, Blue Springs State Park</figcaption>
 </figure>
 The thing about a journal is that …it should be personal. If not, then it becomes just a form of advertisement for yourself, your business, profession. That’s not writing, not real writing. Nor is it what an artist might have in their sketchbook.
-Fair disclaimer this journal is personal.
 
-Yesterday I spent some time with a friend. I took a few photographs of a place I often went to as a child, Blue Springs State park. Everything there looked smaller than I remember. As a child, places seem huge, and I have fond memories of summers spent in Clio, Alabama, and my aunt would carry my cousins and me there often. 
+<p>Fair disclaimer this journal is personal.
+
+<p>Yesterday I spent some time with a friend. I took a few photographs of a place I often went to as a child, Blue Springs State park. Everything there looked smaller than I remember. As a child, places seem huge, and I have fond memories of summers spent in Clio, Alabama, and my aunt would carry my cousins and me there often. 
 
 I reflected on this couple I watched at the springs earlier. They were interesting because they seemed disconnected from the world. Not concerned with what others thought of them. Married with a pack of kids, they closely supervised.
 One had a bass tattooed on his back, his wife a gun with her husband’s and her name wrapped around it. If I’m radically honest about how life has meaning, I can conclude a simple life is better. 
