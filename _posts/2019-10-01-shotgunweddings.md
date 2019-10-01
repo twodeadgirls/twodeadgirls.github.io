@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blue springs and Shotgun weddings
+title: Blue Springs and Shotgun weddings
 subtitle: 
 publish: true
 date: 2019-10-01
