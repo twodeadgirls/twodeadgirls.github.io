@@ -16,6 +16,12 @@ Yesterday I spent some time with a friend. I took a few photographs of a place I
 
 I reflected on this couple I watched at the springs earlier. They were interesting because they seemed disconnected from the world. Not concerned with what others thought of them. Married with a pack of kids, they closely supervised.
 One had a bass tattooed on his back, his wife a gun with her husband’s and her name wrapped around it. If I’m radically honest about how life has meaning, I can conclude a simple life is better. 
+
+<figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191001_Bluespring_DSF9443.jpg">
+<figcaption> Francis jumping into 59 degree water, Blue Springs State Park</figcaption>
+</figure>
+
 After watching people at the park all afternoon, I went to a place with a history I know, Money’s grill and further reflected. I know the people, the dead ones, those alive, the places it moved around town through the decades. Always the same food, the same menu. I sit at the same table, table “A.” 
 
 This couple with the tattoos and pack of kids, I don’t know them and am speculating, like many in this area have never been north of Atlanta nor south of Panama City beach. Their known world exists in between and is anchored by family. They are less concerned with the insanity of culture swirling around them and focused on things that really matter.
