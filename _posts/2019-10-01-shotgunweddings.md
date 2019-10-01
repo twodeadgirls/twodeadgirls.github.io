@@ -27,7 +27,10 @@ One had a bass tattooed on his back, his wife a gun with her husband’s and her
 </figure>
 
 After watching people at the park all afternoon, I went to a place with a history I know, Money’s grill and further reflected. I know the people, the dead ones, those alive, the places it moved around town through the decades. Always the same food, the same menu. I sit at the same table, table “A.” 
-
+<figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191001_moneys_DSF9472.jpg">
+<figcaption>My favorite table at Money's Grill</figcaption>
+</figure>
 This couple with the tattoos and pack of kids, I don’t know them and am speculating, like many in this area have never been north of Atlanta nor south of Panama City beach. Their known world exists in between and is anchored by family. They are less concerned with the insanity of culture swirling around them and focused on things that really matter.
 
  Knowing what I know now if I could change my life, I would do things differently. I would immediately upon finding my woman, preferably not at college but when she turned 16, run away with her to Louisiana and marry her. If I were lucky, it would be a shotgun wedding (age of consent to marry is 16). She would be the only woman I ever kissed, saw nude, or made love to. I would go to one church all my life. Probably eat at the same places and drive the same kind of truck. I would have been a cabinetmaker and created spaces with wood that had generations of children’s feet pitter-patter on them. 
