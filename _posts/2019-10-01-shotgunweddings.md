@@ -6,7 +6,7 @@ publish: true
 date: 2019-10-01
 ---
 <figure>
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191001_Bluesprings_DSF9445.jpg.jpg">
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191001_Bluesprings_DSF9445.jpg">
 <figcaption> At the old pool, Blue Springs State Park</figcaption>
 </figure>
 The thing about a journal is that …it should be personal. If not, then it becomes just a form of advertisement for yourself, your business, profession. That’s not writing, not real writing. Nor is it what an artist might have in their sketchbook.
