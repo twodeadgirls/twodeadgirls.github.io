@@ -34,7 +34,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: /img/avatar-icon.png
+ # title-img: /img/avatar-icon.png
 
 # --- Background colour/image options --- #
 
@@ -53,16 +53,16 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
- navbar-img: /img/HEADSTER.jpg
+# navbar-img: /img/HEADSTER.jpg
 # footer-img: "/img/bgimage.png"
- page-img: "/img/HEADSTER.jpg"
+# page-img: "/img/HEADSTER.jpg"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jon Carroll
+  name: Jon B. Carroll
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
