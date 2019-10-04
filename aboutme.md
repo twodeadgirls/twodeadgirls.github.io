@@ -42,9 +42,9 @@ For a tutorial on how I set my system up  <a href="https://www.jonbcarroll.com/"
 <p>
 <strong>Education</strong>
   
-<p>My research interest is documenting cultural landscapes, the resultant culure they form and how that specifically influences culture and creates myth. <br  />
+<p>My research interest is documenting cultural landscapes, the resultant culture formed and how that specifically creates myth. <br  />
   
 Harvard University, English Literature, 2013.
-Auburn University, Masters Landscape Architecture, 2012.
+Auburn University, Masters Landscape Architecture, 2008.
 Auburn University, BS Architecture 1998.
 Auburn University, BA Environmental Design 1990.
