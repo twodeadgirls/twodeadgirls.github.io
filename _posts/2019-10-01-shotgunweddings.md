@@ -34,16 +34,16 @@ After watching people at the park all afternoon, I went to a place with a histor
 </figure>
 This couple with the tattoos and pack of kids, I don’t know them and am speculating, like many in this area have never been north of Atlanta nor south of Panama City beach. Their known world exists in between and is anchored by family. They are less concerned with the insanity of culture swirling around them and focused on things that really matter.
 
- Knowing what I know now if I could change my life, I would do things differently. I would immediately upon finding my woman, preferably not at college but when she turned 16, run away with her to Louisiana and marry her. If I were lucky, it would be a shotgun wedding (age of consent to marry is 16). She would be the only woman I ever kissed, saw nude, or made love to. I would go to one church all my life. Probably eat at the same places and drive the same kind of truck. I would have been a cabinetmaker and created spaces with wood that had generations of children’s feet pitter-patter on them. 
+<p> Knowing what I know now if I could change my life, I would do things differently. I would immediately upon finding my woman, preferably not at college but when she turned 16, run away with her to Louisiana and marry her. If I were lucky, it would be a shotgun wedding (age of consent to marry is 16). She would be the only woman I ever kissed, saw nude, or made love to. I would go to one church all my life. Probably eat at the same places and drive the same kind of truck. I would have been a cabinetmaker and created spaces with wood that had generations of children’s feet pitter-patter on them. 
 
 After work, I would have driven my truck home and called it a day. The highlight would be seeing her waiting for me, knowing I’m about to sit down and have dinner with my children by her side. My wife would be an extension of me and me one of her, our family an extension of us.
 Our lives would be defined by the home we made and the family we raised. 
 
-Modern culture tells us this is wrong, but I beg to differ.
+<p>Modern culture tells us this is wrong, but I beg to differ.
 It is nice to know what Martin Heidegger said, understand Hegel, ponder Nietzsche …but does it matter? Does knowing what these men thought, about what we all have to experience, having a decent state school education followed by one in the ivy league make any real difference in the meaning of my life? Being radically honest, it does not. It is of little value to understanding why life is frustrating when regardless of what you know or how you live …it will be frustrating at times. 
 Understanding frustration as Jean-Paul Sarte did does not make it any less frustrating. This couple watching their kids play try not to drown themselves probably are happier than I will ever be. The irony of life is they don’t even know it. 
 
-The challenge I've learned is to realize the value of those things and cherish them. To distill and focus one’s life on meaning. If your a landscape architect, you have some solace in the fact your creating places like the park at Blue Springs where everyday life gets to happen, so what you do does matter. But not as much as how you live it. 
+<p>The challenge I've learned is to realize the value of those things and cherish them. To distill and focus one’s life on meaning. If your a landscape architect, you have some solace in the fact your creating places like the park at Blue Springs where everyday life gets to happen, so what you do does matter. But not as much as how you live it. 
 
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191001_Bluespring_DSF9456.jpg">
