@@ -15,6 +15,7 @@ published: true
   
 BTC:<a href="http://bitcoin.org" style="text-align:center">15s9vm1tHBDPf7MS3W1nBi9qDXyPPA67Qc</a>
 
+  <p align="center">Or by paypal</p>
 <p>
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
