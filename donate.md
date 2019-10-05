@@ -15,4 +15,4 @@ published: true
   
 BTC:<a href="http://bitcoin.org" style="text-align:center">15s9vm1tHBDPf7MS3W1nBi9qDXyPPA67Qc</a>
 
-</div>
+
