@@ -23,7 +23,8 @@ description: Photographer and rancher Jon B. Carroll
 navbar-links:
   About: "aboutme"
   Writing: "https://medium.com/@jonbcarroll"
- Books: "http://jonbcarroll.com"
+  Books: "books"
+  Donate: "donate"
   Recent:
     - Two Dead Girls: "http://jonbcarroll.com/twodeadgirls/"
     - Malheur: "http://jonbcarroll.com/malheur/"
