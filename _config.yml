@@ -22,7 +22,7 @@ description: Photographer and rancher Jon B. Carroll
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
-  Writing: "https://medium.com/@jonbcarroll"
+  Essays: "https://medium.com/@jonbcarroll"
   Books: "books"
   Donate: "donate"
   Recent:
