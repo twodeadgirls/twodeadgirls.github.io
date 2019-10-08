@@ -11,7 +11,7 @@ date: 2019-10-01
 </figure>
 The thing about a journal is that …it should be personal. If not, then it becomes just a form of advertisement for yourself, your business, profession. That’s not writing, not real writing. Nor is it what an artist might have in their sketchbook.
 
-<p>Fair disclaimer this journal is personal.
+<p>Fair disclaimer this is personal.
 
 <p>Yesterday I spent some time with a friend. I took a few photographs of a place I often went to as a child, Blue Springs State park. Everything there looked smaller than I remember. As a child, places seem huge, and I have fond memories of summers spent in Clio, Alabama, and my aunt would carry my cousins and me there often. 
 
