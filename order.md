@@ -13,6 +13,8 @@ published: true
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-1.jpg">
 <p>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-2.jpg">
+ <p>
+  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-3.jpg">
 
 </p>
 <p>
@@ -23,7 +25,8 @@ published: true
 <img border="0" alt="No Mans Land" src="https://jonbcarroll.s3.us-east-2.amazonaws.com/watch-now.jpg" height="40" width="142" ></a><a href="https://watch.amazon.com/watch?asin=B075RPK5HJ">
 <img border="0" alt="No Mans Land" src="https://jonbcarroll.s3.us-east-2.amazonaws.com/dvdorder.jpg" height="45" width="62" >
 </a>
-  
+    <br  />
+<p>
 
 <p><strong> 2017&nbsp; NO MANS LAND </strong>&nbsp;This was my first opportunity to film part of a documentary. Directed by David Byars, No Mans Land is an on-the-ground account of the 2016 standoff between protestors of a ranching family's conflict over grazing rights and the occupation of Oregon's Malheur National Wildlife Refuge and federal authorities during a 41-day siege. It documents the occupation from inception to demise and tells the story of those on the inside of this movement. Watch the trailer below.
 </p>
