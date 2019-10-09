@@ -6,7 +6,7 @@ img:
 published: true
 ---
 
- <p><strong> 2019&nbsp; MAELSTROM </strong> in progress&nbsp;. In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered execution style and left in downtown Ozark Alabama. For over 20 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a police officer came forward and claimed a police officer was involved. In 2019 an arrest was made of a local pastor who was young at the time who's DNA matched semen found on one of the girl, however there was no evidence of rape ony consensual sex. Part exhibit and part a series of short films this work examines the trauma unsolved murders can have on a small town. it is a rare behind the scenes look at a invesigation into the murders over a 20 year timeframe.
+ <p><strong> 2019&nbsp; MAELSTROM </strong> (in progress)&nbsp;. In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered execution style and left in downtown Ozark Alabama. For over 20 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a police officer came forward and claimed a police officer was involved. In 2019 an arrest was made of a local pastor who was young at the time who's DNA matched semen found on one of the girl, however there was no evidence of rape ony consensual sex. Part exhibit and part a series of short films this work examines the trauma unsolved murders can have on a small town. it is a rare behind the scenes look at a invesigation into the murders over a 20 year timeframe.
  Watch the trailer below.
 </p>
 <p>
@@ -30,7 +30,10 @@ PBS' Independent Lens recently aired a special titled "Return to Malheur" that c
 <img border="0" alt="No Mans Land" src="https://jonbcarroll.s3.us-east-2.amazonaws.com/returnto.jpg" >
 </a>
 
-
+ <p><strong> 2012&nbsp; LANDSCAPE OF HATE </strong> &nbsp;. In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered execution style and left in downtown Ozark Alabama. For over 20 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a police officer came forward and claimed a police officer was involved. In 2019 an arrest was made of a local pastor who was young at the time who's DNA matched semen found on one of the girl, however there was no evidence of rape ony consensual sex. Part exhibit and part a series of short films this work examines the trauma unsolved murders can have on a small town. it is a rare behind the scenes look at a invesigation into the murders over a 20 year timeframe.
+ Watch the trailer below.
+</p>
+<p>
 
   
 
