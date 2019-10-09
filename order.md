@@ -16,7 +16,7 @@ published: true
 </a>
   
 
-<p>This was my first opportunity to film part of a documentary. Directed by David Byars, No Mans Land is an on-the-ground account of the 2016 standoff between protestors of a ranching family's conflict over grazing rights and the occupation of Oregon's Malheur National Wildlife Refuge and federal authorities during a 41-day siege. It documents the occupation from inception to demise and tells the story of those on the inside of this movement. Watch the trailer below.
+<p><strong> 2017</strong>This was my first opportunity to film part of a documentary. Directed by David Byars, No Mans Land is an on-the-ground account of the 2016 standoff between protestors of a ranching family's conflict over grazing rights and the occupation of Oregon's Malheur National Wildlife Refuge and federal authorities during a 41-day siege. It documents the occupation from inception to demise and tells the story of those on the inside of this movement. Watch the trailer below.
 </p>
 <iframe src="https://player.vimeo.com/video/240876418?color=fdf7f6&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
