@@ -15,7 +15,9 @@ published: true
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-2.jpg">
  <p>
   <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-3.jpg">
-
+   <hr>
+   <br  />
+<p>
 </p>
 <p>
 <a href="https://www.amazon.com/No-Mans-Land-Steve-Grasty/dp/B075RPK5HJ/ref=sr_1_1?keywords=%22David+Garrett+Byars%22&qid=1570629635&s=instant-video&sr=1-1">
