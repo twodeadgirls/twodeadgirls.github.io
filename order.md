@@ -42,6 +42,13 @@ PBS' Independent Lens recently aired a special "Return to Malheur" that contains
 <hr>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla-1.jpg">
 <p>
+DOWN IN DIXIE
+by Jon B. Carroll
+144 pages<p>
+68 images, 12 drawings, 3 inserts and a booklet<p>
+Hardback, 19 cm x 24 cm<p>
+Published by Auburn University<p>
+September 2010
  <p><strong> 2012&nbsp; DOWN IN DIXIE </strong> &nbsp;This work served as my graduate thesis at Auburn Univertisty and examines how the physical form of landscape in <em><a href="https://en.wikipedia.org/wiki/Black_Belt_(region_of_Alabama">the Black Belt region of Alabama</a></em> reinforces racism. It is my assertion this landscape creates a negative value of "civic equality”, where and how racial conflict occurs was documented by video, photographs and drawings. Communities are segregated according to race, civic space often anchored by confederate monuments and compositions of towns deny one race economic participation.  The research reveals two different psychological spaces emerge from a singular landscape. This dynamic reinforces racism and acceptance of segregation being a hidden transcript contributing to racial conflict.
  
   <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla2.jpg">
