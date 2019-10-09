@@ -12,7 +12,7 @@ published: true
 <img border="0" alt="No Mans Land" src="https://jonbcarroll.s3.us-east-2.amazonaws.com/nomansland-cover.jpg"  >
 </a>
 <a href="https://watch.amazon.com/watch?asin=B075RPK5HJ">
-<img border="0" alt="No Mans Land" src="https://jonbcarroll.s3.us-east-2.amazonaws.com/watch-now.jpg" height="48" width="150" ></a><a href="https://watch.amazon.com/watch?asin=B075RPK5HJ">
+<img border="0" alt="No Mans Land" src="https://jonbcarroll.s3.us-east-2.amazonaws.com/watch-now.jpg" height="40" width="142" ></a><a href="https://watch.amazon.com/watch?asin=B075RPK5HJ">
 <img border="0" alt="No Mans Land" src="https://jonbcarroll.s3.us-east-2.amazonaws.com/dvdorder.jpg" height="45" width="62" >
 </a>
   
