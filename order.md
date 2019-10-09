@@ -43,8 +43,14 @@ PBS' Independent Lens recently aired a special "Return to Malheur" that contains
 <hr>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla-1.jpg">
 <p>
- <p><strong> 2012&nbsp; DOWN IN DIXIE </strong> &nbsp;. In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered execution style and left in downtown Ozark Alabama. For over 20 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a police officer came forward and claimed a police officer was involved. In 2019 an arrest was made of a local pastor who was young at the time who's DNA matched semen found on one of the girl, however there was no evidence of rape ony consensual sex. Part exhibit and part a series of short films this work examines the trauma unsolved murders can have on a small town. it is a rare behind the scenes look at a invesigation into the murders over a 20 year timeframe.
- Watch the trailer below.
+ <p><strong> 2012&nbsp; DOWN IN DIXIE </strong> &nbsp;.This work served as my graduate thesis at Auburn Univertisty and examines how the physical form of landscape in <em><a href="https://en.wikipedia.org/wiki/Black_Belt_(region_of_Alabama">the Black Belt region of Alabama</a></em> reinforces racism and creates conflict. It is my belief this landscape creates a negative value of "civic equality”, where and how racial conflict occurs was documented by video, photographs and drawings. This work examines how the landscape in the Black Belt region of Alabama reinforces racism and documents conflict. How racial conflict occurs is documented by video, photographs and drawings. Communities are segregated according to race, civic space often anchored by confederate monuments and compositions of towns deny one race economic participation.  The idea being that two different psychological spaces emerge from a singular landscape. This dynamic reinforces racism and acceptance of segregation being a hidden transcript contributing to racial conflict.
+<p>
+W.E.B. Dubois described a “color line” in the Souls of Black Folks being invisible but a physical phenomena. 
+I document this in a series of figure ground drawings that per Williams, distill the formal aspects of community, to isolate the segregated community’s civic space and shared public space.
+
+The goal of this project was to determine if a student’s essay description of her community in south Alabama were true and the claims of a former Dothan Police officer about police misconduct and a corrupt prosecutor's office and to question the large role of the physical and cultural landscape plays in racism. Brantley's experience of segregation and racism is sumamrized in her ending sentence, <strong>"it's a damn shame"</strong>. And is this the “color line” Dubois observed and to explore the role the physical form of this landscape plays in reinforcing racism.
+<p> The thesis is published at the Auburn Univeristy library. 
+ Thesis committee was Professor of Architecture Michael Robinson and Chair of the Landscape Architecture program Jack Williams.
   <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla2.jpg">
 </p>
  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla3.jpg">
