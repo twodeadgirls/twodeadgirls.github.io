@@ -12,7 +12,7 @@ published: true
 
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-1.jpg">
 <p>
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/bookpage2.jpg">
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-2.jpg">
 
 </p>
 <p>
