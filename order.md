@@ -11,6 +11,7 @@ published: true
   Code Example
 
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/bookcover-01.jpg">
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/bookpage2.jpg">
 
 </p>
 <p>
