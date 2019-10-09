@@ -6,7 +6,7 @@ img:
 published: true
 ---
 
- <p><strong> 2019&nbsp; MAELSTROM </strong> (in progress)&nbsp;. In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered execution style and left in downtown Ozark Alabama. For over 20 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a police officer came forward and claimed a police officer was involved. The Attorney General appointed a special cold case investigator. A retired law enfocement offical that had quietly worked the case for eyars subsequently shared documents pertaining to the case that was never shared with the FBI that are part of the exhibit. 
+ <p><strong> (in progress)&nbsp; MAELSTROM </strong> &nbsp;. In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered execution style and left in downtown Ozark Alabama. For over 20 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a police officer came forward and claimed a police officer was involved. The Attorney General appointed a special cold case investigator. A retired law enfocement offical that had quietly worked the case for eyars subsequently shared documents pertaining to the case that was never shared with the FBI that are part of the exhibit. 
  <P>In 2019 an arrest was made of a local pastor who was young at the time who's DNA matched semen found on one of the girl, however there was no evidence of rape ony consensual sex. Part exhibit and part a series of short films this work examines the emotional trauma unsolved murders can have on a small town. it is a rare behind the scenes look at an invesigation and potential cover-up into the murders over a 20 year timeframe.
   
 
@@ -36,14 +36,19 @@ published: true
 
   <br  />
 <p>
-PBS' Independent Lens recently aired a special titled "Return to Malheur" that contains previously unpublished footage and is valuable in understanding the continued conflict over grazing rights on public land.
+PBS' Independent Lens recently aired a special "Return to Malheur" that contains previously unpublished footage and is valuable in understanding the continued conflict over grazing rights on public land.
 <p><a href="http://www.pbs.org/independentlens/videos/back-to-malheur-two-years-later/">
 <img border="0" alt="No Mans Land" src="https://jonbcarroll.s3.us-east-2.amazonaws.com/returnto.jpg" >
 </a>
-
- <p><strong> 2012&nbsp; LANDSCAPE OF HATE </strong> &nbsp;. In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered execution style and left in downtown Ozark Alabama. For over 20 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a police officer came forward and claimed a police officer was involved. In 2019 an arrest was made of a local pastor who was young at the time who's DNA matched semen found on one of the girl, however there was no evidence of rape ony consensual sex. Part exhibit and part a series of short films this work examines the trauma unsolved murders can have on a small town. it is a rare behind the scenes look at a invesigation into the murders over a 20 year timeframe.
+<hr>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla-1.jpg">
+<p>
+ <p><strong> 2012&nbsp; DOWN IN DIXIE </strong> &nbsp;. In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered execution style and left in downtown Ozark Alabama. For over 20 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a police officer came forward and claimed a police officer was involved. In 2019 an arrest was made of a local pastor who was young at the time who's DNA matched semen found on one of the girl, however there was no evidence of rape ony consensual sex. Part exhibit and part a series of short films this work examines the trauma unsolved murders can have on a small town. it is a rare behind the scenes look at a invesigation into the murders over a 20 year timeframe.
  Watch the trailer below.
+  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla-2.jpg">
 </p>
+ <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla-3.jpg">
+  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla-4.jpg">
 <p>
 
   
