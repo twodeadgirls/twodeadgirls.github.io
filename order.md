@@ -43,8 +43,8 @@ PBS' Independent Lens recently aired a special "Return to Malheur" that contains
 <p>
  <p><strong> 2012&nbsp; DOWN IN DIXIE </strong> &nbsp;.This work served as my graduate thesis at Auburn Univertisty and examines how the physical form of landscape in <em><a href="https://en.wikipedia.org/wiki/Black_Belt_(region_of_Alabama">the Black Belt region of Alabama</a></em> reinforces racism. It is my assertion this landscape creates a negative value of "civic equality”, where and how racial conflict occurs was documented by video, photographs and drawings. Communities are segregated according to race, civic space often anchored by confederate monuments and compositions of towns deny one race economic participation.  The research reveals two different psychological spaces emerge from a singular landscape. This dynamic reinforces racism and acceptance of segregation being a hidden transcript contributing to racial conflict.
 
-<p> The thesis is published at the Auburn Univeristy library. 
- Thesis committee was Professor of Architecture Michael Robinson and Chair of the Landscape Architecture program Jack Williams.
+<p> The thesis is availble at the Auburn Univeristy library. 
+ 
   <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla2.jpg">
 </p>
  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla3.jpg">
