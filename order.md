@@ -7,9 +7,9 @@ published: true
 ---
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-1.jpg">
 
- <p><strong>2019</strong>(in progress)&nbsp;<strong> MAELSTROM </strong> &nbsp; In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered execution style and left in downtown Ozark Alabama. For over 20 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a police officer came forward and claimed a officer was responsible. The Attorney General then appointed a special cold case investigator and a retired state law enfocement official that had quietly worked the case for years shared documents that were never shared with the FBI that support the claim. 
+ <p><strong>2019&nbsp; MAELSTROM </strong> (in progress)&nbsp; In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered execution style and left in downtown Ozark Alabama. For over 20 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a police officer came forward and claimed a officer was responsible. The Attorney General then appointed a special cold case investigator and a retired state law enfocement official that had quietly worked the case for years shared documents that were never shared with the FBI that support the claim. 
  <P>In 2019 an arrest was made of a local pastor who's DNA matched semen found on one of the girl, however there was no evidence of rape only consensual sex. Part photo exhibit and part short filmed interviews this work examines the emotional trauma unsolved murders can have on a small town. It is a rare glimpse behind the scenes at an invesigation and the  potential cover-up of the murders over a 20 year timeframe.
-  
+  <p>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-2.jpg">
  <p>
   <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-3.jpg">
