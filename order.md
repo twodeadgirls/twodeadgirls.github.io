@@ -56,7 +56,7 @@ September 2010
 </p>
  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla3.jpg">
  <p>
-  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/mla4.jpg">
+ 
 <p>
 
   
