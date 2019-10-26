@@ -5,7 +5,7 @@
 title:    JON B. CARROLL   
 
 # Short description of your site
-description: Photographer and rancher Jon B. Carroll
+description: Photographer and Rancher Jon B. Carroll
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -123,7 +123,7 @@ url-pretty: "jonbcarroll.com"  # eg. "https://jonbcarroll.github.io"
 # disqus: ""
 
 # If you want to use JustComments fill with the API Key
-#just-comments: "ABCD-EFGH-IJKL"
+#just-comments: "6eb6e8df-4b4d-4033-87cc-6e01d1de4b19"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
