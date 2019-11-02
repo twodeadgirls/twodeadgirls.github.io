@@ -21,7 +21,8 @@ This book made me aware of how little I understand artificial intelligence.
 What is fascinating in 1958 the U.S. Office of Naval Research made an interesting prediction about their use of algorithms. Quoted from the.
 <a href="[https://timesmachine.nytimes.com/timesmachine/1958/07/13/91396361.html](https://timesmachine.nytimes.com/timesmachine/1958/07/13/91396361.html)"> New York Times July 13, 1958 </a>
 <p>
-  <div>"The Navy revealed the embryo of an electronic computer today that it expects will be able to walk, talk, see, write, reproduce itself, and <ul>be conscious of its existence.</ul> Later perceptrons will be able to recognize people and call out their names and instantly translate speech in one language to speech and writing in another language, it was predicted.”</div>
+  >"The Navy revealed the embryo of an electronic computer today that it expects will be able to walk, talk, see, write, reproduce itself, and <ul>be conscious of its existence.</ul> Later perceptrons will be able to recognize people and call out their names and instantly translate speech in one language to speech and writing in another language, it was predicted.”
+  >
 </p>
 Reread the phrase underlined in the first sentence, " be conscious of itself".
 Thats the part I don't get. I get the use of algorithms, I get perceptons. I think its even fairly reasoble most people can udnerstand how these work to create a facial recogintion system. With the warning the math is way past what Fred Cutchens taught at Abbeville High School. But its doable for the average person with enough coffee.
