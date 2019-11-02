@@ -9,7 +9,7 @@ date: 2019-11-02
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191102-0198.jpg">
 <figcaption> Example of basic neural network used to recognize a hand drawn number </figcaption>
-</figure
+</figure>
 
 I've somehow spent weeks trying to understand artifical intelligence which makes for zero blog entires.
 After reading a book "Synapses" - btw highly reccomend, I wanted to understand how the basics of artifical intelligence and more specifically how facial recoginition software works.
