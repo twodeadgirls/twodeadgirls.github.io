@@ -29,5 +29,4 @@ Thats the part I don't get. I get the use of algorithms, I get perceptons. I thi
 
 That last sentence cuts to the chase of A.I. research. How does a machine become conscious of itself ?
 
-Imagine for a moment I have a drone parked at my window. Each morning the drone dutifully takes off and runs a back and forth pattern across my pastures. Much like a roomba that vacumns floors. The drone relays images of the grass and creates a grid where like the pixel recogition diagrammed above it measures light reflectivity that will be used to estimate grass growth.
-This is fed into a program that reads every pixel. 
+
