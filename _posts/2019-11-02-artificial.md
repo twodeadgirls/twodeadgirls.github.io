@@ -30,6 +30,7 @@ Alan Turing defined it this way by paraphrasing neurologist Geoffery Johnson;
 “Not until a machine can write a sonnet or compose a concerto because of thoughts and emotions felt, and not by the chance fall of symbols, could we agree that machine equals brain—that is, not only write it but know that it had written it. No mechanism could feel (and not merely artificially signal, an easy contrivance) pleasure at its successes, grief when its valves fuse, be warmed by flattery, be made miserable by its mistakes, be charmed by sex, be angry or depressed when it cannot get what it wants.”
 
 
-That last phrase though of the Navy's 1958 press conference still holds true, "be conscious of its existence", cuts to the chase of A.I. research. How does a machine become conscious of itself? We still do not know.
+Rosenblatt's last phrase quoted by the Times in the Navy's 1958 press conference still holds true, "be conscious of its existence", this cuts to the chase of A.I. research. 
+How does a machine become conscious of itself? Short answer, we still do not know.
 
 
