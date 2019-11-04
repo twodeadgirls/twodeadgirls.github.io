@@ -18,7 +18,7 @@ This technology is more prevalent in our lives than we realize take a simple iph
 In "Synapses" aside from atheism, religion, Christianity and the exploring the ideas of how all these intersect with a.i. ( I won't spoil it) is discussed in a 20 year in the future story of a minister.
 This book made me aware of how little I understand artificial intelligence.
 
-What is fascinating in 1958 the U.S. Office of Naval Research made an interesting prediction about their use of algorithms. Quoted from the.
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/nyt1958.jpg" align="left"> What is fascinating in 1958 the U.S. Office of Naval Research made an interesting prediction about their use of algorithms. Quoted from the
 <a href="[https://timesmachine.nytimes.com/timesmachine/1958/07/13/91396361.html](https://timesmachine.nytimes.com/timesmachine/1958/07/13/91396361.html)"> New York Times July 13, 1958 </a>
 <p>
   >"The Navy revealed the embryo of an electronic computer today that it expects will be able to walk, talk, see, write, reproduce itself, and **be conscious of its existence.** Later perceptrons will be able to recognize people and call out their names and instantly translate speech in one language to speech and writing in another language, it was predicted.”
