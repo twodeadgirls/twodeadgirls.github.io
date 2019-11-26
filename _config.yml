@@ -2,17 +2,17 @@
 
 
 # Name of website
-title:    JON B. CARROLL   
+title:    JON KALEV   
 
 # Short description of your site
-description: Photographer and Rancher Jon B. Carroll
+description: Documentary Photographer Jon Kalev
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://jonbcarroll.com"
+#url: "https://jonkalev.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -22,7 +22,7 @@ description: Photographer and Rancher Jon B. Carroll
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
-  Essays: "https://medium.com/@jonbcarroll"
+  Essays: "https://medium.com/@jonkalev"
   Work: "order"
   Support: "donate"
 
@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jon B. Carroll
+  name: Jon Kalev
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -70,12 +70,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
  # rss: true
-  email: "joncarroll@riseup.net"
+  email: "jonkalev@riseup.net"
   facebook: jonbcarroll
- # github: jonbcarroll
- # twitter: jonbcarroll
+ # github: jonkalev
+ # twitter: jonkalev
 #  reddit: yourname
-#  linkedin: jonbcarroll
+#  linkedin: jonkalev
 #  xing: yourname
 #  stackoverflow: 
 
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jonbcarroll.com"  # eg. "https://jonbcarroll.github.io"
+url-pretty: "jonkalev.com"  # eg. "https://jonkalev.github.io"
 
 # --- Web Statistics Section --- #
 
