@@ -14,7 +14,7 @@ published: true
 <p>
 <strong>Artist Statement</strong>
 <p>I am a graduate student studying clinical psychology with the goal of developing a practice using wilderness therapy. 
-  My passion is documentary photography, I'm particularly interested in how landscapes influecne how people think and behave. I use photography to document cultural landscapes and the resultant physical form. I am a self-taught, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. I believe photography and drawings of landscapes reveal how physical form (the built environment) is driven by culture as well as reveal the influence resultant form has on inhabitants.
+  My passion is documentary photography, I'm particularly interested in how landscapes influence how people think. I use photography to document cultural landscapes and the resultant physical form. I am a self-taught, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. I believe photography and drawings of landscapes reveal how physical form (the built environment) is driven by culture as well as reveal the influence resultant form has on inhabitants.
 
 <p>Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
@@ -23,7 +23,7 @@ published: true
 <strong>Equipment</strong> 
  <p>I use the Fuji XPro and <a href="https://www.fujifilmusa.com/products/digital_cameras/x-lenses/">their fixed x series lenses- 16/23/35/56</a>. Fuji’s system is small weatherproof and very durable. It's sensor captures a gorgeous spectrum of color.  
    Seasonally I work as a mountain guide in the San Juan mountains of Colorado between 10 and 14 thousand feet in elevation so my camera must fit in a backpack, be lightweight and work in any weather condition. Also critical the Fuji system is very usable by horseback.
-Digitally I keep things minimal using an iPad pro, editing kept to a minimum. With the iPad I've found I can use open source software, Jekyll and Github to maintain this page to record my ideas. The core idea is be mobile and self reliant, not needing electricity except what a backpack based solar unit can provide and avoid the use of a laptop or desktop. If I can't do all I need to do on the hood of my truck or trail then it doesnt work.
+Digitally I keep things minimal using an iPad pro, editing kept to a minimum. With the iPad I've found I can use open source software, Jekyll and Github to maintain this page to record my ideas. The core idea is mobile and self reliant, not needing electricity except what a backpack based solar unit can provide and avoid the use of a laptop or desktop. If I can't do all I need to do on the hood of my truck or out on a trail then it does'nt work.
 
    <br  />
 <p>
@@ -42,9 +42,8 @@ From 2013 TO 2015 I wrote a weekly op-ed piece for a community non-profit newspa
 <p>
 <strong>Education</strong>
   
-<p>My research interest is documenting cultural landscapes, the resultant culture formed and how that specifically creates myth. <br  />
-  
-Harvard University, English Literature, 2013.
+<p
+Harvard University, Post Grad English Literature, 2013.
 Auburn University, Masters Landscape Architecture, 2008.
 Auburn University, BS Architecture 1998.
 Auburn University, BA Environmental Design 1990.
