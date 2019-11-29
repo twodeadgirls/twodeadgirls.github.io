@@ -36,7 +36,7 @@ Digitally I keep things minimal using an iPad pro, editing kept to a minimum. Wi
 <p>In 2014 I was awarded the Zilphea Horton Grant by the <a href="https://www.highlandercenter.org">Highlander Foundation</a>. 
   This was used to research and <a href="https://medium.com/@jonbcarroll/leaked-documents-reveal-dothan-police-department-alleged-to-have-planted-drugs-f89109dc196e"> document victims</a> in a community ranked by Harvard's Center for Government Ethics as one of the most corrupt in the nation - Alabama’s 20th judicial district. A book of these photographs, “Save the Kennys” is forthcoming.
 <p>
-From 2013 TO 2015 I wrote a weekly op-ed and served as a photographer for a small community newspaper.
+
   
 
   
