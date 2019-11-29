@@ -30,7 +30,7 @@ Of course, he had the classic one-liner that "if he had to date his daughter" ( 
     <p>
 What sticks in my mind about what the doctor said was he meant what he said and too often all the mental health care anyone receives is a pill. And disturbingly that is linked to your social status more than anything else.
      <p>
-I'm a big proponent of Engel’s biopsychosocial model [https://en.wikipedia.org/wiki/Biopsychosocial_model]
+I'm a big proponent of <a href="https://en.wikipedia.org/wiki/Biopsychosocial_model">Engel’s biopsychosocial model</a> 
  which believes  illness through the complex interaction of biological factors (genetic, biochemical, etc.), psychological factors (mood, personality, behavior, etc.) and social factors (cultural, familial, socioeconomic, medical, etc.) 
 An excellent resource to understand why the inequities in power, money, and resources drive the inequalities in mental health is the World Health Organization's research by Sir Michael Marmot.
 Addressing these needs in rural communities and understanding the social determinants is one of the reasons I wanted to become a therapist and study psychology in the first place.
