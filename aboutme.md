@@ -13,8 +13,9 @@ published: true
 <br  />
 <p>
 <strong>Artist Statement</strong>
-<p>I'm a graduate student studying social psychology with the long term goal of developing a practice using wilderness and visual art therapy. 
-  My artistic passion is documentary photography, I'm particularly interested in how landscapes influences social judgment, motivation, and behavior. I use photography and film to document cultural landscapes and the resultant physical form. And to document how social goals and political attitudes can be influenced by satisfaction of the underlying physical-level experience of ethnically segregated landscapes.
+<p>I'm a graduate student studying social psychology with the long term goal of developing a practice using wilderness therapy. 
+  My artistic passion is documentary photography, and I use this medium to document how landscapes influence social judgment, motivation, and behavior. An understanding of cultural landscapes and the resultant physical form can determine how social goals and political attitudes are influenced by the underlying physical-level experience.
+  Specifically I am interested in researching ethnically segregated communities by investigating interactions between intrapersonal processes (e.g., emotion, social cognition, motivation, attitudes, and belief systems) and social behavior (e.g., persuasion, communication, decision making, stereotyping, political behavior, health behavior, and intergroup cooperation or conflict) in the American South.  
   
   <p>I am a self-taught photographer, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. I believe photography and drawings of landscapes reveal how physical form (our built environment) is driven by culture as well as reveal the influence resultant form has on inhabitants.
 
@@ -30,12 +31,12 @@ Digitally I keep things minimal using an iPad pro, editing kept to a minimum. Wi
    <br  />
 <p>
 <strong>Recent work</strong>
-  <p>In 2016 I filmed pat of <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon to protest a ranching family’s incarceration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
+  <p>In 2016 I filmed part of <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon to protest a ranching family’s incarceration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
     
 <p>In 2014 Awarded the Zilphea Horton Grant by the <a href="https://www.highlandercenter.org">Highlander Foundation</a>. 
   This was used to research and <a href="https://medium.com/@jonbcarroll/leaked-documents-reveal-dothan-police-department-alleged-to-have-planted-drugs-f89109dc196e"> document victims</a> in a community ranked by Harvard's Center for Government Ethics as one of the most corrupt in the nation - Alabama’s 20th judicial district. A book of these photographs, “Save the Kennys” is forthcoming.
 <p>
-From 2013 TO 2015 I wrote a weekly op-ed piece for a community non-profit newspaper The Henry County Reporter and have wrtten articles in the Eufaula Tribune and Truthout.
+From 2013 TO 2015 I wrote a weekly op-ed and served as a photographer piece for a community newspaper.
   
 
   
