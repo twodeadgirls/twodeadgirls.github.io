@@ -9,6 +9,8 @@ date: 2019-11-29
 Here are a few thoughts I will share about depression.
 From the perspective of having to leave a life and career return to an isolated farm and care for two parents in hospice - I can now relate to a feeling of hopelessness and experience of depression. 
 <p>
+ 8 months in this is what I've got to offer you.
+ <p>
 Daily it takes energy out of your life and erodes one’s optimism and the effect is cumulative. There is little to look forward to in this atmosphere where the only thing that eventually comes is the death of those you care for which makes anyone that looking forward to that consumed with moral guilt. 
 There are no good answers when you would look forward to another’s death.
  <p>
