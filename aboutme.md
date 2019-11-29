@@ -13,10 +13,11 @@ published: true
 <br  />
 <p>
 <strong>Artist Statement</strong>
-<p>I use photography to document cultural landscapes and the resultant physical form. I am a self-taught, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. I believe photography and drawings of landscapes reveal how physical form (the built environment) is driven by culture as well as reveal the influence resultant form has on inhabitants.
-  Resource exploitation, racial segregation, and a materially obsessed capitalist cultures all become self-fulfilling prophecies their built form steering culture in a psychology of landscape.
+<p>I am a graduate student studying clinical psychology with the goal of developing a practice using wilderness and visual art therapy. 
+  My passion is documentary photography and film, I'm particularly interested in how landscapes influecne how people think and behave. I use photography to document cultural landscapes and the resultant physical form. I am a self-taught, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. I believe photography and drawings of landscapes reveal how physical form (the built environment) is driven by culture as well as reveal the influence resultant form has on inhabitants.
+  Resource exploitation, racial segregation, and a materially obsessed capitalist culture all become self-fulfilling prophecies their built form steering culture in  what I term a psychology of landscape.
 
-<p>l am still a beginner to the medium, learning to understand the basics of exposure aperture and lens selection. Most of the time I shoot manully as it forces me to think about exposure and depth of field making it intuitive. Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
+<p>Some of my inspirations are <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
 <p>
@@ -29,7 +30,7 @@ For a tutorial on how I set my system up  <a href="https://www.jonbcarroll.com/"
    <br  />
 <p>
 <strong>Recent</strong>
-  <p>In 2016 I filmed several interviews in <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon to protest a ranching family’s incarceration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
+  <p>In 2016 I filmed pat of <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon to protest a ranching family’s incarceration. The film was nominated for the Best Documentary at the Denver International Film Festival 2017, and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
     
 <p>In 2014 Awarded the Zilphea Horton Grant by the <a href="https://www.highlandercenter.org">Highlander Foundation</a>. 
   This was used to research and <a href="https://medium.com/@jonbcarroll/leaked-documents-reveal-dothan-police-department-alleged-to-have-planted-drugs-f89109dc196e"> document victims</a> in a community ranked by Harvard's Center for Government Ethics as one of the most corrupt in the nation - Alabama’s 20th judicial district. A book of these photographs, “Save the Kennys” is forthcoming.
