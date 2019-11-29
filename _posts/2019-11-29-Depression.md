@@ -14,7 +14,7 @@ From the perspective of having to leave a life and career return to an isolated 
 Daily it takes energy out of your life and erodes one’s optimism and the effect is cumulative. There is little to look forward to in this atmosphere where the only thing that eventually comes is the death of those you care for which makes anyone that looking forward to that consumed with moral guilt. 
 There are no good answers when you would look forward to another’s death.
  <p>
-Perhaps most harmful is it denies you the ability to think your own life has meaning, your life is put on hold or taken away from you and instead you're dealing with adult diapers, preparing meals, organizing medicines and never able to go far from those sick and bedridden. Caretaking  (at end of life) is an extraordinarily taxing act on one’s emotional well-being, especially for this that cannot leave at the end of each day and retreat to their own home. 
+Perhaps most harmful is it denies you the ability to think your own life has meaning, your life is put on hold or taken away from you and instead you're dealing with adult diapers, preparing meals, organizing medicines and never able to go far from those sick and bedridden. Caretaking  (end-of-life) is an extraordinarily taxing act on one’s emotional well-being, especially for this that cannot leave at the end of each day and retreat to their own home. 
 There is just extended sorrow, sleep or long walks with your dog one’s only refuge.
   <p>
 But what I have learned in this process and reflection on my dog walks is we each have physical needs we can agree on, food, clean water, air to breathe and shelter.
