@@ -19,7 +19,7 @@ published: true
   
   <p>I am a self-taught photographer, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. I believe photography and drawings of landscapes reveal how physical form (our built environment) is driven by culture as well as reveal the influence resultant form has on inhabitants.
 
-<p>Some of my inspirations from psychology are <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>, <a href="https://en.wikipedia.org/wiki/Carl_Rogers">Carl Rogers</a> and photogrpahers <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
+<p>Some of my inspirations from psychology are <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>, <a href="https://en.wikipedia.org/wiki/Carl_Rogers">Carl Rogers</a> and photographers <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
 <p>
