@@ -12,7 +12,7 @@ published: true
   </figure>
 <br  />
 <p>
-<strong>Artist Statement</strong>
+<strong>Statement</strong>
 <p>I'm a graduate student studying for a PhD in social psychology with the long term goal of practicing wilderness therapy. 
   My artistic passion is documentary photography, which I use to document how landscapes influence social judgment, motivation, and behavior. A visual analysis- including still images and drawings offer understanding of cultural landscapes and how physical form influences social goals and political attitudes formed by the underlying physical-level experience.
   Specifically I am interested in researching ethnically segregated communities by investigating interactions between intrapersonal processes (e.g., emotion, social cognition, motivation, attitudes, and belief systems) and social behavior (e.g., persuasion, communication, decision making, stereotyping, political behavior, and intergroup cooperation or conflict) in the American South. Increasingly deep learning and artificial intelligence enables us to distill data making connections between place and thought.
