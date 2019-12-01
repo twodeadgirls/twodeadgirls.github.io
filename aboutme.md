@@ -15,7 +15,7 @@ published: true
 <strong>Statement</strong>
 <p> Current rancher and graduate student (social psychology).
   <p>
-  My passion is documentary photography, which I use to document how landscapes influence social judgment, motivation, and behavior.<p>Visual analysis - including still images and drawings offer understanding of cultural landscapes and how physical form influences social goals and political attitudes that can be controlled by the underlying repititive physical-level experience.
+  Passion is documentary photography, which I use to document how landscapes influence social judgment, motivation, and behavior.<p>Visual analysis - including still images and drawings offer understanding of cultural landscapes and how physical form influences social goals and political attitudes that can be controlled by the underlying repititive physical-level experience.
   I am interested in researching ethnically segregated communities by investigating interactions between intrapersonal processes (e.g., emotion, social cognition, motivation, attitudes, and belief systems) and social behavior (e.g., persuasion, communication, decision making, stereotyping, political behavior, and intergroup cooperation or conflict) in the American South. Increasingly deep learning and artificial intelligence enables us to distill data making connections between place and thought.
   
   <p>My photography is self-taught, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. Drawing and graphic skills learned at Auburn Uiversity's School of Architecture while obtaining an undergraduate degree.
