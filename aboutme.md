@@ -13,11 +13,12 @@ published: true
 <br  />
 <p>
 <strong>Statement</strong>
-<p>I'm a graduate student studying for a PhD in social psychology with the long term goal of practicing wilderness therapy. 
-  My artistic passion is documentary photography, which I use to document how landscapes influence social judgment, motivation, and behavior. A visual analysis- including still images and drawings offer understanding of cultural landscapes and how physical form influences social goals and political attitudes formed by the underlying physical-level experience.
-  Specifically I am interested in researching ethnically segregated communities by investigating interactions between intrapersonal processes (e.g., emotion, social cognition, motivation, attitudes, and belief systems) and social behavior (e.g., persuasion, communication, decision making, stereotyping, political behavior, and intergroup cooperation or conflict) in the American South. Increasingly deep learning and artificial intelligence enables us to distill data making connections between place and thought.
+<p>I'm studying towards a PhD in Social Psychology with the long term goal of providing mental health care / therapy. 
+  My artistic passion is documentary photography, which I use to document how landscapes influence social judgment, motivation, and behavior. 
+  <p>Visual analysis - including still images and drawings offer understanding of cultural landscapes and how physical form influences social goals and political attitudes that can be controlled by the underlying repititive physical-level experience.
+  I am interested in researching ethnically segregated communities by investigating interactions between intrapersonal processes (e.g., emotion, social cognition, motivation, attitudes, and belief systems) and social behavior (e.g., persuasion, communication, decision making, stereotyping, political behavior, and intergroup cooperation or conflict) in the American South. Increasingly deep learning and artificial intelligence enables us to distill data making connections between place and thought.
   
-  <p>My photography is self-taught, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. 
+  <p>My photography is self-taught, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. Drawing and graphic skills learned at Auburn Uiversity's School of Architecture while obtaining an undergraduate degree.
 
 <p>Some of my inspirations from psychology are <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>, <a href="https://en.wikipedia.org/wiki/Carl_Rogers">Carl Rogers</a> Seligman's <a href="https://www.huffingtonpost.com/david-sze/the-father-of-positive-ps_b_7600226.html">Perma model</a> and photographers <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
