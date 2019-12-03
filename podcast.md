@@ -9,7 +9,7 @@ published: true
  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/podwebcover.jpg">
 
  <p>
- This podcast is a long form discussion about how we share experiences and think about them differently by photographer and mountain guide Jon Kalev. 
+ <strong>This podcast is a long form discussion </strong>about how we share experiences and think about them differently by photographer and mountain guide Jon Kalev. 
  <p>
  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/episode-cover.jpg">
  
