@@ -24,6 +24,39 @@ published: true
    <hr>
    <br  />
 <p>
+ <figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191007-DSCF2349+copy.jpg">
+<figcaption> Dale County Courthouse, Ozark Alabama</figcaption>
+</figure>
+ 
+   <figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191010_DothanEagle2.jpg" align="left" width="400" height="355">
+<figcaption>Recent Misleading Reporting by Michelle Forehand (Dothan Eagle) from 10/10/2019</figcaption>
+</figure>
+
+  <div id="DV-viewer-6466547-19990801-BeasleyHawlett-BOLO" class="DC-embed DC-embed-document DV-container"></div>
+<script src="//assets.documentcloud.org/viewer/loader.js"></script>
+<script>
+  DV.load("https://www.documentcloud.org/documents/6466547-19990801-BeasleyHawlett-BOLO.js", {
+  responsive: true,
+    container: "#DV-viewer-6466547-19990801-BeasleyHawlett-BOLO"
+  });
+</script>
+<noscript>
+  <a href="https://assets.documentcloud.org/documents/6466547/19990801-BeasleyHawlett-BOLO.pdf">19990801_ BeasleyHawlett-BOLO (PDF)</a>
+  <br />
+  <a href="https://assets.documentcloud.org/documents/6466547/19990801-BeasleyHawlett-BOLO.txt">19990801_ BeasleyHawlett-BOLO (Text)</a>
+</noscript>
+<p>
+ <figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191007-DSCF2342+copy.jpg">
+<figcaption> The courtroom where Coley McCraney’s murder trial will take place this spring, Ozark Alabama</figcaption>
+</figure>
+ 
+ <figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191007-DSCF2407+copy.jpg">
+<figcaption> Just blocks away from where the trial will take place. J.B. Beasley’s car was left the night of July 31, 1999. Her body and Tracie Hawlett’s were found in the trunk.</figcaption>
+</figure>
 </p>
 
   <br  />
