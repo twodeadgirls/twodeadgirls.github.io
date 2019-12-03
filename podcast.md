@@ -6,9 +6,9 @@ img:
 published: true
 ---
 
- <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/PODPOD.JPG">
+ <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/poddermundo.jpg">
 
- <p><strong>WELCOME TO MY&nbsp; PODCAST </strong>&nbsp;
+ <p><strong>WELCOME TO MY&nbsp;LITTLE PODCAST </strong>&nbsp;
  
  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/episode-cover.jpg">
  
