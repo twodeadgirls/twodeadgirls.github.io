@@ -5,7 +5,7 @@ subtitle: null
 img: 
 published: true
 ---
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-TDG.jpg">
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/episode-cover.jpg">
 
  <p><strong>WELCOME TO THE JON KALEV&nbsp; PODCAST </strong>&nbsp; 
  
