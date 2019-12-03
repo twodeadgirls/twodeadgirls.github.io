@@ -22,6 +22,7 @@ description: Documentary Photographer Jon Kalev
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
+  Podcast: "podcast"
   Essays: "https://medium.com/@jonkalev"
   Work: "order"
   Support: "donate"
