@@ -29,11 +29,10 @@ published: true
 <figcaption> Dale County Courthouse, Ozark Alabama</figcaption>
 </figure>
  
-   <figure>
+ 
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191010_DothanEagle2.jpg" align="left" width="400" height="355">
-<figcaption>Recent Misleading Reporting by Michelle Forehand (Dothan Eagle) from 10/10/2019</figcaption>
-</figure>
-
+<p>Recent Misleading Reporting by Michelle Forehand (Dothan Eagle) from 10/10/2019
+<p>
   <div id="DV-viewer-6466547-19990801-BeasleyHawlett-BOLO" class="DC-embed DC-embed-document DV-container"></div>
 <script src="//assets.documentcloud.org/viewer/loader.js"></script>
 <script>
