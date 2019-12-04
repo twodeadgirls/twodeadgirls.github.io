@@ -36,10 +36,7 @@ published: true
 <p>Recent Misleading reporting by Michelle Forehand (Dothan Eagle) from 10/10/2019. The girls were not missing for two days.
 <p>
   
-  <a href="https://assets.documentcloud.org/documents/6466547/19990801-BeasleyHawlett-BOLO.pdf">19990801_ BeasleyHawlett-BOLO (PDF)</a>
-  <br />
-  <a href="https://assets.documentcloud.org/documents/6466547/19990801-BeasleyHawlett-BOLO.txt">19990801_ BeasleyHawlett-BOLO (Text)</a>
-</noscript>
+  
 <p>
  <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20191007-DSCF2342+copy.jpg">
