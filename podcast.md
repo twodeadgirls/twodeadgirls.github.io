@@ -20,7 +20,7 @@ published: true
   
   The episodes (4) of the podcast covering these murders will present a series of facts and a timeline we will post on this site so our listeners can follow the discussions.
   <p>
-  These episodes will provide a rare glimpse behind the scenes of a homicide investigation that lasted 20 years and candid discussion about the DNA results and why Beasley and Hawlett were murdered. 
+  These episodes will provide a rare glimpse behind the scenes of a homicide investigation that lasted 20 years and candid discussion about potential motives for why Beasley and Hawlett were murdered. 
   <p>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-2.jpg">
  <p>
