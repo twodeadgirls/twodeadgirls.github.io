@@ -11,6 +11,8 @@ published: true
  <p>
  "<strong>TWISTING THE TAIL OF A COW</strong> will encourage her to move forward”. “If the tail is held up over the back, it serves as a mild restraint. In both cases, the handler should hold the tail close to the base to avoid breaking it, and stand to the side to avoid being kicked.”
 <p>
+ “The ear twitch can be used to divert attention from other parts of the body.” “It should be used with care to avoid damage to the ear cartilage. To make the twitch, fasten a loop of cord or rope around the base of the horns. The rope is then carried around the ear and a half-hitch formed. The end of the rope is pulled to apply restraint.”
+ <p>
  <strong>This podcast is a long form discussion </strong>about how we share experiences and think about them differently by photographer and rancher Jon Kalev. 
  <p>
  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/episode-cover.jpg">
