@@ -15,14 +15,12 @@ published: true
  <strong>This podcast is a long form discussion </strong>about how we share experiences and think about them differently by photographer and rancher Jon Kalev. 
  <p>
  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/episode-cover.jpg">
- 
- <P><strong><a href="https://anchor.fm/jonkalev/episodes/Episode-1---The-Murders-of-J-B--Beasley-and-Tracie-Hawlett-e9alvt/a-a13nssg">EPISODE 1:&nbsp; THE MURDERS OF J.B. BEASLEY AND TRACIE HAWLETT</a> </strong>&nbsp; In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered and left in their car's trunk in Ozark Alabama. For over 19 years the case remained unsolved fueling rumours and conspiracy theories of a cover-up. In 2017 an aux. police officer claimed a former officer was responsible. The Attorney General then appointed a special cold case investigator and he pushed for DNA recovered from a victim to be compared to a national geneological database. Parallel to this development a retired state law enforcement official that had quietly worked the case for years shared documents that were never shared with the FBI that support the officer's claim. 
- <P>In 2019 an arrest was made of a preacher who's DNA matched semen fragments found on one of the girls, there was no evidence of rape only consensual sex according to the autopsy. Despite this and aware of a previous confession the prosecutor has charged Coley Mccraney with rape and murder.
-  
-  The episodes (4) of the podcast covering these murders will present a series of facts and a timeline we will post on this site so our listeners can follow the discussions.
+   The episodes (4) of the podcast covering these murders will present a series of facts and <a href="http://jonkalev.com/bh-timeline/">a timeline we will post</a> on this site so our listeners can follow the discussions. We will provide a rare glimpse behind the scenes of a homicide investigation that lasted 20 years and candid discussion about potential motives for why Beasley and Hawlett were murdered. 
   <p>
-  These episodes will provide a rare glimpse behind the scenes of a homicide investigation that lasted 20 years and candid discussion about potential motives for why Beasley and Hawlett were murdered. 
-  <p>
+ <P><strong><a href="https://anchor.fm/jonkalev/episodes/Episode-1---The-Murders-of-J-B--Beasley-and-Tracie-Hawlett-e9alvt/a-a13nssg">EPISODE 1:&nbsp; THE MURDERS OF J.B. BEASLEY AND TRACIE HAWLETT- TIMELINE</a> </strong>&nbsp; In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered and left in their car's trunk in Ozark Alabama. For over 19 years the case remained unsolved fueling rumours and conspiracy theories of a cover-up. In 2017 an aux. police officer claimed a former officer was responsible. The Attorney General then appointed a special cold case investigator and he pushed for DNA recovered from a victim to be compared to a national geneological database. Parallel to this development a retired state law enforcement official that had quietly worked the case for years shared documents that were never shared with the FBI supporting the officer's claim. 
+ <P>
+  <P><strong><a href="">EPISODE 2:&nbsp; THE MURDERS OF J.B. BEASLEY AND TRACIE HAWLETT- EVIDENCE</a> </strong>&nbsp;
+
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-2.jpg">
  <p>
   <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-3.jpg">
