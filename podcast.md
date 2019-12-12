@@ -19,7 +19,11 @@ published: true
   <p>
  <P><strong><a href="https://anchor.fm/jonkalev/episodes/Episode-1---The-Murders-of-J-B--Beasley-and-Tracie-Hawlett-e9alvt/a-a13nssg">EPISODE 1:&nbsp; THE MURDERS OF J.B. BEASLEY AND TRACIE HAWLETT- TIMELINE</a> </strong>&nbsp; In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered and left in their car's trunk in Ozark Alabama. For over 19 years the case remained unsolved fueling rumours and conspiracy theories of a cover-up. In 2017 an aux. police officer claimed a former officer was responsible. The Attorney General then appointed a special cold case investigator and he pushed for DNA recovered from a victim to be compared to a national geneological database. Parallel to this development a retired state law enforcement official that had quietly worked the case for years shared documents that were never shared with the FBI supporting the officer's claim. 
  <P>
-  <P><strong><a href="">EPISODE 2:&nbsp; THE MURDERS OF J.B. BEASLEY AND TRACIE HAWLETT- EVIDENCE</a> </strong>&nbsp;
+  <P><strong>EPISODE 2:&nbsp; THE MURDERS OF J.B. BEASLEY AND TRACIE HAWLETT- EVIDENCE </strong>&nbsp;
+   In episode 2 we discuss the evidence in the case that is known.(Dec 22)
+   
+   
+   <p>
 
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/book-2.jpg">
  <p>
