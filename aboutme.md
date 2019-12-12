@@ -25,7 +25,7 @@ published: true
 <p>
 <strong>Equipment</strong> 
  <p>Equipment used is a Fuji XPro2 (stills) and XT-3 (video) along with <a href="https://www.fujifilmusa.com/products/digital_cameras/x-lenses/">their fixed x series lenses- 16/23/35/56</a>. Fuji’s system is small weatherproof and very durable. It's sensor captures a gorgeous spectrum of color.  
-   <a href="https://www.sanjuanbackcountry.com">Seasonally I work as a mountain guide( click to book a trip) </a> in the wilderness of the San Juan mountains of Colorado between 10 and 14 thousand feet in elevation so my camera must fit in a backpack, be lightweight and work in any weather condition. 
+   Seasonally I work as a mountain guide<a href="https://www.sanjuanbackcountry.com"> (click to book a trip) </a> in the wilderness of the San Juan mountains of Colorado between 10 and 14 thousand feet in elevation so my camera must fit in a backpack, be lightweight and work in any weather condition. 
 Digitally I keep things minimal using an iPad pro, editing kept to a minimum. With the iPad I've found I can use open source software, Jekyll and Github to maintain this page to record my ideas. The core idea is mobile and self reliant, not needing electricity except what a backpack based solar unit can provide and avoid the use of a laptop or desktop. If I can't do all I need to do on the hood of my truck then it does'nt work.
 
    <br  />
