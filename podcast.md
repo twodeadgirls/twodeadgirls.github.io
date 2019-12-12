@@ -12,7 +12,7 @@ published: true
  "<strong>TWISTING THE TAIL OF A COW</strong> will encourage her to move forward”. “If the tail is held up over the back, it serves as a mild restraint. In both cases, the handler should hold the tail close to the base to avoid breaking it, and stand to the side to avoid being kicked.”
 <p>
 
- <strong>This podcast is a long form discussion </strong>about how we share experiences and think about them differently by photographer and rancher Jon Kalev. 
+ <strong>This podcast is a long form discussion </strong>about how we share experiences and think about them differently by Jon Kalev. 
  <p>
  <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/episode-cover.jpg">
    The episodes (4) of the podcast covering these murders will present a series of facts and <a href="http://jonkalev.com/bh-timeline/">a timeline we will post</a> on this site so our listeners can follow the discussions. We will provide a rare glimpse behind the scenes of a homicide investigation that lasted 20 years and candid discussion about potential motives for why Beasley and Hawlett were murdered. 
