@@ -2,17 +2,17 @@
 
 
 # Name of website
-title:    JON KALEV   
+title:    TWO DEAD GIRLS 
 
 # Short description of your site
-description: Documentary Photographer Jon Kalev
+description: Podcast about the unsolved murders of JB Bealsey and Tracie Hawlett
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://jonkalev.com"
+#url: "https://twodeadgirls.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -22,10 +22,10 @@ description: Documentary Photographer Jon Kalev
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
-  Podcast: "podcast"
-  Writing: "https://medium.com/@jonkalev"
-  Works: "order"
-  Support: "donate"
+  Episodes: "podcast"
+
+  Documents: "order"
+  Subscribe: "donate"
 
 
 
