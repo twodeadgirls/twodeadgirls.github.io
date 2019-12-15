@@ -35,7 +35,7 @@ Your browser does not support the audio element.
     <P>
     <strong>EPISODE 4: WYKLE WILLIAMS AND RENA CRUMB
     <p>
-    <strong>EPISODE 5: POSSIBLE MOTIVES</strong> Multiple parties had a motive to harm JB Beasley. In the days that follwoed the murders one investigator questioned family members about a tape with mens voices on it. Beasleyw as scheduled to be a wintess in a court case the following monday. Prior to that weekend she had written a letter to a relative in Luverne that said she was scared of a older man that had inappropriately touched her. 
+    <strong>EPISODE 5: POSSIBLE MOTIVES</strong> Multiple parties had a motive to harm J.B. Beasley. In the days following the murders one investigator questioned family members about a tape with men's voices on it. Beasley was scheduled to be a wintess in a court the following monday. Prior to that weekend she had written a letter to a relative in Luverne saying she was scared of a older man that had inappropriately touched her. 
       <a href="https://jonkalev.s3-us-west-2.amazonaws.com/bh-dancers2.jpg"/>
     <P>
     <strong>EPISODE 6: POTENTIAL NEW EVIDENCE</strong>
