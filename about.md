@@ -24,7 +24,7 @@ Your browser does not support the audio element.
   <ul>
     <strong>TRAILER</strong>
     <P>
-    <strong><EPISODE 1:  THE TIMELINE </strong>
+    <strong>EPISODE 1:  THE TIMELINE </strong>
     <P>
     <strong>EPISODE 2: EVIDENCE</strong>
     <P>
