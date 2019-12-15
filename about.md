@@ -14,7 +14,7 @@ published: true
   <strong>TRAILER</strong>
 <audio controls>
   <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="https://jonkalev.s3-us-west-2.amazonaws.com/trailer.mp33" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 <p>
