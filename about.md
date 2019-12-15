@@ -10,7 +10,7 @@ published: true
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/cbh.jpg" alt=" J.B. Beasley and Tracie Hawlett">
   <figcaption>J.B. Beasley and Tracie Hawlett</figcaption>
   </figure>
-<br  />
+<br />
   <strong>TRAILER</strong>
 <audio controls>
   <source src="https://jonkalev.s3-us-west-2.amazonaws.com/trailer.ogg" type="audio/ogg">
@@ -29,6 +29,7 @@ Your browser does not support the audio element.
     <a href="http://jonkalev.com/bh-timeline/"><img src="https://jonkalev.s3-us-west-2.amazonaws.com/timeline-thumbnail.jpg"></a>
     <P>
     <strong>EPISODE 2: EVIDENCE</strong>
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/bh-dancers.jpg"/>
     <P>
     <strong>EPISODE 3: THE SUSPECTS</strong>
     <P>
