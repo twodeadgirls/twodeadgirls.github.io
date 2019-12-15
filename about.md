@@ -18,11 +18,11 @@ published: true
        
     </div>
     <div style="float:left;margin-right:5px;">
-        <img class="middle-img" src="https://jonkalev.s3-us-west-2.amazonaws.com/apple_badge.png" height="40" width="185" />
+        <img class="middle-img" src="https://jonkalev.s3-us-west-2.amazonaws.com/google_badge.png" height="157" width="455" />
        
     </div>
     <div style="float:left;margin-right:5px;">
-        <img src="https://jonkalev.s3-us-west-2.amazonaws.com/apple_badge.png" height="40" width="185" />
+        <img src="https://jonkalev.s3-us-west-2.amazonaws.com/spotify-badge.png" height="80" width="330" />
        
     </div>
 </div>
