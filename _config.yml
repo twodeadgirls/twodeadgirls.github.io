@@ -21,7 +21,7 @@ description: Podcast about the unsolved murders of JB Beasley and Tracie Hawlett
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  About: "aboutme"
   Episodes: "podcast"
   Timeline: "http://jonkalev.com/bh-timeline/"
   Documents: "order"
@@ -35,7 +35,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: /img/avatar-icon.png
+# title-img: /img/avatar-icon.png
 
 # --- Background colour/image options --- #
 
