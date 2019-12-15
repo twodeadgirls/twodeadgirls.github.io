@@ -25,7 +25,7 @@ Your browser does not support the audio element.
   <ul>
     <strong>TRAILER</strong>
     <P>
-    <strong>EPISODE 1:  THE TIMELINE </strong>
+    <strong>EPISODE 1:  THE TIMELINE </strong> <br> From 8PM July 31, 1999 until 9:02 AM Aug 1, the movements of these two girls are documented by phone records, witness, police sightings and security video.   
     <P>
     <strong>EPISODE 2: EVIDENCE</strong>
     <P>
@@ -40,5 +40,5 @@ Your browser does not support the audio element.
     <strong>EPISODE 7: INTERVIEW WITH A VICTIM'S FAMILY MEMBER AND THE DOCUMENTARY FILM</strong>
     <P>
     <strong>EPILOUGE: TRIAL</strong>
-    </ul>
+
    
