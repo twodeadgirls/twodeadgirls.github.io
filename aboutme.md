@@ -7,7 +7,7 @@ published: true
 ---
 
 <figure>
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/witness.jpg" alt=" My dog Micco and me">
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/ep-cover.jpg" alt=" J.B. Beasley and Tracie Hawlett">
   <figcaption> Micco and me on the streets of Silverton Colorado</figcaption>
   </figure>
 <br  />
@@ -15,7 +15,12 @@ published: true
 <strong>Statement</strong>
 <p> Multidisciplinary visual artist and rancher.
   <p>
-  I use photography to document how landscapes influence social judgment, motivation, and behavior. This includes still images, video and drawings which offers understanding how physical form influences social goals and political attitudes by the underlying repetitive physical-level experience.
+ In the summer of 1999 two high school seniors, one on her seventeenth birthday, were brutally murdered and left in A car trunk in downtown Ozark Alabama. For over 19 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a reserve police officer claimed a former officer was responsible. The Attorney General then appointed a special cold case investigator and pushed for DNA recovered from a victim to be compared to a national geneological database. Parallel to this development a retired state law enforcement official that had quietly worked the case for years shared documents that were never shared with the FBI supporting the officer's claim. These documents were not shared with the grand jury who later indicted a man who had consensual sex with one of the victims earlier that evening.
+    This case is a rare behind the scenes look at a cold case homicide investigattion that exposes the U.S> Justice syste and how DNA evidnece can be misused to convict the innocent.
+    
+    
+    
+    use photography to document how landscapes influence social judgment, motivation, and behavior. This includes still images, video and drawings which offers understanding how physical form influences social goals and political attitudes by the underlying repetitive physical-level experience.
   Interested in researching ethnically segregated communities by investigating interactions between urban form (e.g., emotion, social cognition, motivation, attitudes, and belief systems) and effects on social behavior (e.g., persuasion, communication, decision making, stereotyping, political behavior, hate crimes and intergroup cooperation or conflict). 
   <p>I'm a self-taught photographer, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. Drawing and graphic skills honed @ Auburn University's School of Architecture while obtaining an degree in architecture.
 
