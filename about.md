@@ -32,7 +32,7 @@ Your browser does not support the audio element.
     <P>
     <strong>EPISODE 4: WYKLE WILLIAMS AND RENA CRUMB
     <p>
-    <strong>EPISODE 5: POTENTIAL MOTIVES</strong>
+    <strong>EPISODE 5: POSSIBLE MOTIVES</strong>
     <P>
     <strong>EPISODE 6: POTENTIAL NEW EVIDENCE</strong>
     <P>
