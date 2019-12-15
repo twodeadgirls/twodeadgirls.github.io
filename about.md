@@ -5,17 +5,22 @@ subtitle: null
 img: https://jonkalev.s3-us-west-2.amazonaws.com/bw-cover.png
 published: true
 ---
-<style>
-    div.container {
-      display:inline-block;
-    }
 
-    p {
-      text-align:center;
-    }
-  </style>
-  
- 
+  <div class="image123">
+    <div style="float:left;margin-right:5px;">
+        <img src="https://jonkalev.s3-us-west-2.amazonaws.com/apple_badge.png" height="20" width="20"  />
+       
+    </div>
+    <div style="float:left;margin-right:5px;">
+        <img class="middle-img" src="https://jonkalev.s3-us-west-2.amazonaws.com/apple_badge.png" height="20" width="20" />
+       
+    </div>
+    <div style="float:left;margin-right:5px;">
+        <img src="https://jonkalev.s3-us-west-2.amazonaws.com/apple_badge.png" height="20" width="20" />
+       
+    </div>
+</div>
+
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/bw-cover.png" alt=" J.B. Beasley and Tracie Hawlett">
   <figcaption>J.B. Beasley and Tracie Hawlett</figcaption>
