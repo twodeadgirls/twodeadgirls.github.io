@@ -21,7 +21,7 @@ description: Podcast about the unsolved murders of JB Beasley and Tracie Hawlett
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  Home: "about"
   Episodes: "podcast"
   Timeline: "http://jonkalev.com/bh-timeline/"
   Documents: "order"
