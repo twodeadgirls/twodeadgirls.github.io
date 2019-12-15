@@ -11,6 +11,11 @@ published: true
   <figcaption>J.B. Beasley and Tracie Hawlett</figcaption>
   </figure>
 <br  />
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 <p>
 
 <strong>In the summer of 1999 two high school students</strong>, one on her seventeenth birthday, were brutally murdered and left in A car trunk in downtown Ozark Alabama. For over 19 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a reserve police officer claimed a former officer was responsible. The Attorney General then appointed a special cold case investigator and pushed for DNA recovered from a victim to be compared to a national geneological database. Parallel to this development a retired state law enforcement official that had quietly worked the case for years shared documents that were never shared with the FBI supporting the officer's claim. These documents were not shared with the grand jury who later indicted a man who had consensual sex with one of the victims earlier that evening.
