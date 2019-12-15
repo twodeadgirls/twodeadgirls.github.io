@@ -11,7 +11,7 @@ published: true
   <figcaption>J.B. Beasley and Tracie Hawlett</figcaption>
   </figure>
 <br  />
-
+<p>
   <div class="image123">
     <div style="float:left;margin-right:5px;">
         <img src="https://jonkalev.s3-us-west-2.amazonaws.com/apple_badge.png" height="40" width="185"  />
@@ -27,7 +27,7 @@ published: true
     </div>
 </div>
 
-<p>
+</p>
   
   
 <strong>Two Dead Girls</strong>
