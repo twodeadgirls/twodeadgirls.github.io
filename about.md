@@ -20,21 +20,22 @@ Your browser does not support the audio element.
 
 <strong>In the summer of 1999 two high school students</strong>, one on her seventeenth birthday, were brutally murdered and left in A car trunk in downtown Ozark Alabama. For over 19 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a reserve police officer claimed a former officer was responsible. The Attorney General then appointed a special cold case investigator and pushed for DNA recovered from a victim to be compared to a national geneological database. Parallel to this development a retired state law enforcement official that had quietly worked the case for years shared documents that were never shared with the FBI supporting the officer's claim. These documents were not shared with the grand jury who later indicted a man who had consensual sex with one of the victims earlier that evening.
     This case is a rare behind the scenes look at a cold case homicide investigation that exposes how the U.S. Justice system is mis-using DNA evidence to convict the innocent.
+    <P>
+  <ul>
+    <strong>TRAILER</strong>
     
-    TRAILER
+    <strong><PEPISODE 1:  THE TIMELINE </strong>
     
-    EPISODE 1:  THE TIMELINE 
+    <strong>EPISODE 2: EVIDENCE</strong>
     
-    EPISODE 2: EVIDENCE
-    
-    EPISODE 3: THE SUSPECTS
+    <strong>EPISODE 3: THE SUSPECTS</strong>
 
-    EPISODE 4: POTENTIAL MOTIVES
+    <strong>EPISODE 4: POTENTIAL MOTIVES</strong>
     
-    EPISODE 5: POTENTIAL NEW EVIDENCE
+    <strong>EPISODE 5: POTENTIAL NEW EVIDENCE</strong>
     
-    EPISODE 6: INTERVIEW WITH VICTIM'S FAMILY AND THE FILM
+    <strong>EPISODE 6: INTERVIEW WITH VICTIM'S FAMILY AND THE FILM</strong>
     
-    EPILOUGE
-    
+    <strong>EPILOUGE: TRIAL</strong>
+    </ul>
    
