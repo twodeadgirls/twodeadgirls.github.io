@@ -23,19 +23,19 @@ Your browser does not support the audio element.
     <P>
   <ul>
     <strong>TRAILER</strong>
-    
-    <strong><PEPISODE 1:  THE TIMELINE </strong>
-    
+    <P>
+    <strong><EPISODE 1:  THE TIMELINE </strong>
+    <P>
     <strong>EPISODE 2: EVIDENCE</strong>
-    
+    <P>
     <strong>EPISODE 3: THE SUSPECTS</strong>
-
+<P>
     <strong>EPISODE 4: POTENTIAL MOTIVES</strong>
-    
+    <P>
     <strong>EPISODE 5: POTENTIAL NEW EVIDENCE</strong>
-    
+    <P>
     <strong>EPISODE 6: INTERVIEW WITH VICTIM'S FAMILY AND THE FILM</strong>
-    
+    <P>
     <strong>EPILOUGE: TRIAL</strong>
     </ul>
    
