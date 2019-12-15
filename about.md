@@ -2,12 +2,12 @@
 layout: page
 title: .
 subtitle: null
-img: /img/hello_world.jpeg
+img: https://jonkalev.s3-us-west-2.amazonaws.com/bw-cover.png
 published: true
 ---
 
 <figure>
-<img src="https://jonkalev.s3-us-west-2.amazonaws.com/ep-cover.jpg" alt=" J.B. Beasley and Tracie Hawlett">
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/bw-cover.png" alt=" J.B. Beasley and Tracie Hawlett">
   <figcaption>J.B. Beasley and Tracie Hawlett</figcaption>
   </figure>
 <br  />
