@@ -12,24 +12,7 @@ published: true
   </figure>
 <br  />
 <p>
-  <div class="image123">
-    <div style="float:center;margin-right:2px;">
-        <img src="https://jonkalev.s3-us-west-2.amazonaws.com/apple_badge.png" height="40" width="185"  />
-       
-    </div>
-    <div style="float:left;margin-right:5px;">
-        <img class="middle-img" src="https://jonkalev.s3-us-west-2.amazonaws.com/google_badge.png" height="57" width="355" />
-       
-    </div>
-    <div style="float:left;margin-right:5px;">
-        <img src="https://jonkalev.s3-us-west-2.amazonaws.com/spotify-badge.png" height="40" width="165" />
-       
-    </div>
-</div>
-
-</p>
-  
-  <br  />
+ <img src="https://jonkalev.s3-us-west-2.amazonaws.com/listen_badges.png"/>
 <p>
 <strong>Two Dead Girls</strong>
 
