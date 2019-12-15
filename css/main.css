@@ -7,6 +7,22 @@ published: true
 
 /* --- General --- */
 
+/* The Important Stuff */
+
+#img1 {
+    position:absolute;
+    bottom:20px;
+    right:45px;
+}
+
+a:hover {
+    text-decoration:none;
+}
+
+a:hover img {
+    opacity:.8;
+}
+
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
