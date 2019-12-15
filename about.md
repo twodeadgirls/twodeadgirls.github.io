@@ -29,12 +29,14 @@ Your browser does not support the audio element.
     <strong>EPISODE 2: EVIDENCE</strong>
     <P>
     <strong>EPISODE 3: THE SUSPECTS</strong>
-<P>
-    <strong>EPISODE 4: POTENTIAL MOTIVES</strong>
     <P>
-    <strong>EPISODE 5: POTENTIAL NEW EVIDENCE</strong>
+    <strong>EPISODE 4: WYKLE WILLIAMS AND RENA CRUMB
+    <p>
+    <strong>EPISODE 5: POTENTIAL MOTIVES</strong>
     <P>
-    <strong>EPISODE 6: INTERVIEW WITH VICTIM'S FAMILY AND THE FILM</strong>
+    <strong>EPISODE 6: POTENTIAL NEW EVIDENCE</strong>
+    <P>
+    <strong>EPISODE 7: INTERVIEW WITH A VICTIM'S FAMILY MEMBER AND THE DOCUMENTARY FILM</strong>
     <P>
     <strong>EPILOUGE: TRIAL</strong>
     </ul>
