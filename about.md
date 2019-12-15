@@ -5,7 +5,17 @@ subtitle: null
 img: https://jonkalev.s3-us-west-2.amazonaws.com/bw-cover.png
 published: true
 ---
+<style>
+    div.container {
+      display:inline-block;
+    }
 
+    p {
+      text-align:center;
+    }
+  </style>
+  
+ 
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/bw-cover.png" alt=" J.B. Beasley and Tracie Hawlett">
   <figcaption>J.B. Beasley and Tracie Hawlett</figcaption>
