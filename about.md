@@ -30,7 +30,7 @@ Your browser does not support the audio element.
     <P>
  
      <strong>EPISODE 2:  EVIDENCE </strong> <br> We group evidence into three catagores, physical, circumstantial and inferential. ON and insde one victim was semen that was matched to Mccraney however the autopsy indiates no sign of sexual assault and witnesses were aware of a relationship between the two. Dozens of items were recovered from the car but no prints were obtained from the 13 spent cartridges recovered from the trunk. Left on Beasley's thigh (pictured above) was a single 9mm unspent round. Many believe this was a calling card or warning that along with where the car was placed in downtown Ozark had meaning to explain the crime. Both girls were as well wet and had mud on them from the waist down.  
-    <img src="https://jonkalev.s3-us-west-2.amazonaws.com/bhcar-.jpg"/>
+    <img src="https://jonkalev.s3-us-west-2.amazonaws.com/bhcar-1.jpg"/>
   
   <p>
     <strong>EPISODE 3: THE SUSPECTS</strong>
