@@ -22,7 +22,7 @@ Your browser does not support the audio element.
 <strong>In the summer of 1999 two high school students</strong>, one on her seventeenth birthday, were brutally murdered and left in A car trunk in downtown Ozark Alabama. For over 19 years the case remained unsolved fueling rumours and conspiracy theories of a police cover-up. In 2017 a reserve police officer claimed a former officer was responsible. The Attorney General then appointed a special cold case investigator and pushed for DNA recovered from a victim to be compared to a national geneological database. Parallel to this development a retired state law enforcement official that had quietly worked the case for years shared documents that were never shared with the FBI supporting the officer's claim. These documents were not shared with the grand jury who later indicted a man who had consensual sex with one of the victims earlier that evening.
     This case is a rare behind the scenes look at a cold case homicide investigation that exposes how the U.S. Justice system is mis-using DNA evidence to convict the innocent.
     <P>
-  <ul>
+
   
     <P>
     <strong>EPISODE 1:  THE TIMELINE </strong> <br> From 8PM July 31, 1999 until 9:02 AM Aug 1, the movements of these two girls are documented by phone records, witness, police sightings and security video.  
@@ -30,6 +30,11 @@ Your browser does not support the audio element.
     <P>
  
      <strong>EPISODE 2:  EVIDENCE </strong> <br> We group evidence into three catagores, physical, circumstantial and inferential. ON and insde one victim was semen that was matched to Mccraney however the autopsy indiates no sign of sexual assault and witnesses were aware of a relationship between the two. Dozens of items were recovered from the car but no prints were obtained from the 13 spent cartridges recovered from the trunk. Left on Beasley's thigh (pictured above) was a single 9mm unspent round. Many believe this was a calling card or warning that along with where the car was placed in downtown Ozark had meaning to explain the crime. Both girls were as well wet and had mud on them from the waist down.  
+    <img src="https://jonkalev.s3-us-west-2.amazonaws.com/bhcar-1.jpg"/>
+  
+  <p>
+
+  <strong>EPISODE 2:  EVIDENCE </strong> <br> We group evidence into three catagores, physical, circumstantial and inferential. ON and insde one victim was semen that was matched to Mccraney however the autopsy indiates no sign of sexual assault and witnesses were aware of a relationship between the two. Dozens of items were recovered from the car but no prints were obtained from the 13 spent cartridges recovered from the trunk. Left on Beasley's thigh (pictured above) was a single 9mm unspent round. Many believe this was a calling card or warning that along with where the car was placed in downtown Ozark had meaning to explain the crime. Both girls were as well wet and had mud on them from the waist down.  
     <img src="https://jonkalev.s3-us-west-2.amazonaws.com/bhcar-1.jpg"/>
   
   <p>
@@ -46,5 +51,5 @@ Your browser does not support the audio element.
     <strong>EPISODE 7: INTERVIEW WITH A VICTIM'S FAMILY MEMBER AND THE DOCUMENTARY FILM</strong>
     <P>
     <strong>EPILOUGE: TRIAL OF COLEY MCCRANEY</strong>
-      </ul>
+     
    
