@@ -46,5 +46,5 @@ Your browser does not support the audio element.
     <strong>EPISODE 7: INTERVIEW WITH A VICTIM'S FAMILY MEMBER AND THE DOCUMENTARY FILM</strong>
     <P>
     <strong>EPILOUGE: TRIAL OF COLEY MCCRANEY</strong>
-
+      </ul>
    
