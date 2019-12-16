@@ -25,7 +25,7 @@ Your browser does not support the audio element.
 
   
     <P>
-    <strong>EPISODE 1:  THE TIMELINE </strong> <br> From 8PM July 31, 1999 until 9:02 AM Aug 1, the movements of these two girls are documented by phone records, witness, police sightings and security video.  
+    <strong>EPISODE 1:  THE TIMELINE </strong> <br> From 8 PM July 31, 1999 until 9:02 AM Aug 1, the movements of these two girls are documented by phone records, witness, police sightings and security video.  
     <a href="http://jonkalev.com/bh-timeline/"><img src="https://jonkalev.s3-us-west-2.amazonaws.com/timeline-thumbnail.jpg"></a>
     <P>
  
