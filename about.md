@@ -29,17 +29,18 @@ Your browser does not support the audio element.
     <a href="http://jonkalev.com/bh-timeline/"><img src="https://jonkalev.s3-us-west-2.amazonaws.com/timeline-thumbnail.jpg"></a>
     <P>
  
-     <strong>EPISODE 2:  EVIDENCE </strong> <br> Evidence is grouped into three catagores, physical, circumstantial and inferential. One victim had semen dna fragments recovered that matched to Coley Mccraney's DNA, however the autopsy indicated no sign of sexual assault and witnesses were aware of a relationship between the two. Dozens of items were recovered from the car but no prints or dna were obtained from the 13 spent cartridges recovered from the trunk. Left on Beasley's thigh (pictured above) was a single 9mm unspent round. Many believe this was purposeful along with where the car was placed in downtown Ozark had meaning to explain the crime. Both girls were as well wet and had mud on them from the waist down. We examine all known evidence and eyewitnesses coming forward that have not been shared with the public. <p> 
+     <strong>EPISODE 2:  EVIDENCE </strong> <br> Evidence is in three catagores, physical, circumstantial and inferential. One victim had semen dna fragments recovered that matched to Coley Mccraney's DNA, however the autopsy indicated no sign of sexual assault and witnesses were aware of a relationship between the two. Dozens of items were recovered from the car but no prints or dna were obtained from the 13 spent cartridges recovered from the trunk. Left on Beasley's thigh (pictured above) was a single 9mm unspent round. Many believe this was purposeful along with where the car was placed in downtown Ozark had meaning to explain the crime. Both girls were as well wet and had mud on them from the waist down. We examine all known evidence and eyewitnesses coming forward that have not been shared with the public. <p> 
     <img src="https://jonkalev.s3-us-west-2.amazonaws.com/bhcar-1.jpg"/>
   
   <p>
 
-  <strong>EPISODE 3:  THE SUSPECTS </strong> <br> DNA evidnce of a consensual sex encoutner was mistakenly used for 19 years to exclude persons of interest and suspects. Nearly 200 people who were tested and the city spending nearly one million dollars according to former Chief Tony Spivey. By not pursuing leads that involved suspsects excluded because of the misusue of DNA these suspects now are re-examined and put into the context of the new information and witneeses that have come forward. <p>
+  <strong>EPISODE 3:  THE SUSPECTS </strong> <br> In this case unfortunately DNA evidence from a consensual sexual encounter was mistakenly used for 19 years to exclude persons of interest and suspects. Nearly 200 people were tested and the city spending nearly one million dollars according to former Chief Tony Spivey. But by not pursuing leads that involved suspects excluded because of DNA not matching, these means that the potential party responsoble was cleared. The original suspects now are re-examined and put into the context of the new information and witnesses that have come forward. <p>
     <img src="https://jonkalev.s3-us-west-2.amazonaws.com/.jpg"/>
   
 
     <P>
-    <strong>EPISODE 4: CONSPIRACY THEORIES OF WYKLE WILLIAMS AND OFFICER RENA CRUMB
+    <strong>EPISODE 4: CONSPIRACY THEORIES OF WYKLE WILLIAMS AND OFFICER RENA CRUMB</strong> <br>
+    
     <p>
     <strong>EPISODE 5: POSSIBLE MOTIVES</strong> <br> 
       Multiple parties had motive to harm J.B. Beasley. In the days following the murders one investigator questioned family members looking for a tape with men's voices on it. Beasley was rumuored to have a tape of incriminating information on seevral pro9nent individuals and was scheduled to be a witness in a court the following week. Prior to that weekend she had written a letter to a relative in Luverne saying she was scared of a older man that had inappropriately touched her. 
